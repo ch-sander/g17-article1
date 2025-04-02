@@ -1,0 +1,51 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX grace: <https://g17.dhi-roma.it/ontology/>
+PREFIX g17raw: <https://g17.dhi-roma.it/raw/>
+PREFIX g17: <https://g17.dhi-roma.it/resources/>
+
+SELECT ?event ?event_label ?date_value_7 ?date_value_4 ?diocese_11 ?diocese_11_label
+  ?province ?province_label ?map_15 ?place_13 ?place_13_label ?place_17 ?place_17_label
+  ?map_19 (GROUP_CONCAT(DISTINCT ?type_label; SEPARATOR = ",") AS ?type_labels)
+WHERE {
+  ?event rdf:type grace:event ;
+           grace:called ?event_label ;
+           grace:event_date ?date_2 ;
+           grace:vacancy_date ?date_5 ;
+           grace:place_of_event ?place_17 ;
+           grace:testified_by ?ENTRY_2 .
+  ?ENTRY_2 rdf:type grace:entry ;
+           grace:in_source ?SOURCE_4 .
+  VALUES ?SOURCE_4 { g17:source_1 g17:source_2 }
+  ?date_2 rdf:type grace:date ;
+          grace:mid_date ?date_value_4 .
+  ?date_5 rdf:type grace:date ;
+          grace:mid_date ?date_value_7 .
+  ?event (grace:object_object|^grace:event_object)*/grace:in_diocese ?diocese_11 .
+  ?diocese_11 rdf:type grace:diocese ;
+              grace:called ?diocese_11_label ;
+              grace:under_jurisdiction ?province ;
+              grace:primary_place ?place_13 .
+  ?province rdf:type grace:ecclesiastical_province ;
+            grace:called ?province_label .
+  ?place_13 rdf:type grace:place ;
+            grace:called ?place_13_label ;
+            grace:wkt ?map_15 .
+  ?place_17 rdf:type grace:place ;
+            grace:called ?place_17_label ;
+            grace:wkt ?map_19 .
+  ?event ((grace:type_object|(grace:object_object|^grace:object_related_to_event)+/grace:type_object)/grace:broader*) ?entity .
+
+#  ?event ((grace:type_object|(grace:object_related_to_object_directed)+/grace:type_object)/grace:broader*) ?entity .
+
+  ?entity a grace:term .
+  FILTER(NOT EXISTS { ?entity grace:in_thesaurus ?thesaurus.
+      VALUES ?thesaurus {
+        g17:type_459 # type of object
+        # g17:type_142 # subtype of event
+        g17:type_50 # exclude types of subregister
+      }. })
+  ?entity grace:called ?type_label .
+}
+GROUP BY ?event ?event_label ?date_value_7 ?date_value_4 ?diocese_11 ?diocese_11_label
+  ?province ?province_label ?map_15 ?place_13 ?place_13_label ?place_17 ?place_17_label
+  ?map_19

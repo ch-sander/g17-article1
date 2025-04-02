@@ -1,0 +1,73 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX grace: <https://g17.dhi-roma.it/ontology/>
+PREFIX g17raw: <https://g17.dhi-roma.it/raw/>
+PREFIX g17: <https://g17.dhi-roma.it/resources/>
+
+SELECT DISTINCT ?event ?event_label ?span_text ?label ?person ?element ?role_label
+  ?role ?family_name ?given_name ?family_members ?institution ?institution_label ?date
+  (GROUP_CONCAT(DISTINCT ?type_label; SEPARATOR = ",") AS ?type_labels)
+WHERE {
+  # Filter expedit 2 and 9
+  ?event rdf:type grace:event ;
+         grace:called ?event_label ;
+         grace:testified_by ?ENTRY_2 .
+  ?ENTRY_2 rdf:type grace:entry ;
+           grace:in_source ?SOURCE_4 .
+  VALUES ?SOURCE_4 { g17:source_1 g17:source_2 }
+  ?event g17raw:is_described_by ?element .
+  ?element g17raw:span_text ?span_text ;
+           g17raw:has_label ?label .
+  ?label g17raw:has_class grace:person ;
+         g17raw:has_main_property ?role .
+  ?role grace:called ?role_label .
+  FILTER (?role != g17:type_1119) # exclude authorities
+    # Institution:
+  ?event (grace:object_object|^grace:event_object)*/grace:in_diocese ?institution .
+  ?institution rdf:type grace:diocese ;
+               grace:called ?institution_label .
+   # Type Labels:
+  ?event ((grace:type_object|(grace:object_object|^grace:object_related_to_event)+/grace:type_object)/grace:broader*) ?entity .
+  ?entity a grace:term .
+  FILTER(NOT EXISTS { ?entity grace:in_thesaurus ?thesaurus.
+      VALUES ?thesaurus {
+        g17:type_459 # type of object
+        # g17:type_142 # subtype of event
+        g17:type_50 # exclude types of subregister
+      }. })
+  ?entity grace:called ?type_label .
+  OPTIONAL {
+    {
+      SELECT ?event (SAMPLE(?d) AS ?date)
+      WHERE {
+        ?event grace:event_date ?date_2 .
+        ?date_2 rdf:type grace:date ;
+                grace:started ?d .
+      }
+      GROUP BY ?event
+    }
+    FILTER (?event = ?event)
+  }
+  OPTIONAL {
+    {
+      SELECT ?element ?person (SAMPLE(?fn) AS ?family_name) (SAMPLE(?gn) AS ?given_name)
+  (GROUP_CONCAT(DISTINCT ?fm_name; SEPARATOR = ",") AS ?family_members)
+      WHERE {
+        ?element g17raw:entity ?person .
+        ?person a grace:natural_person .
+        OPTIONAL {
+          ?person grace:family_name ?fn .
+        }
+        OPTIONAL {
+          ?person grace:given_name ?gn .
+        }
+        OPTIONAL {
+          ?person (grace:kinship|^grace:kinship)* ?family_member .
+        }
+      }
+      GROUP BY ?element ?person
+    }
+    FILTER (?element = ?element)
+  }
+}
+GROUP BY ?event ?event_label ?span_text ?label ?role_label ?role ?element ?person
+  ?date ?family_name ?given_name ?family_members ?institution_label ?institution

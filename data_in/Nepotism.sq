@@ -1,5 +1,5 @@
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-PREFIX grace: <https://g17.dhi-roma.it/ontology/>
+PREFIX grace: <https://w3id.org/g17/ontology/>
 PREFIX g17raw: <https://g17.dhi-roma.it/raw/>
 PREFIX g17: <https://g17.dhi-roma.it/resources/>
 

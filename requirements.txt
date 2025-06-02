@@ -1,6 +1,6 @@
 SPARQLWrapper==2.0.0
 numpy==1.26.2
-fuzzywuzzy==0.18.0
+rapidfuzz==3.6.1
 seaborn==0.13.0
 matplotlib==3.8.2
 pandas==2.1.3

@@ -1,361 +1,369 @@
 ,diocese_id,diocese_name,average_combined_score,average_ratio_score,count_positive_score,total_events,unique_persons,likelihood
-145,https://g17.dhi-roma.it/resources/institution_176,Cauriensis,0.4464285714285714,0.4880952380952381,6,12,1,significant
-339,https://g17.dhi-roma.it/resources/institution_423,Nucerina,0.3449411764705882,0.3778823529411765,10,25,1,significant
-194,https://g17.dhi-roma.it/resources/institution_236,Dolensis,0.33617424242424243,0.3996212121212121,9,22,1,significant
-173,https://g17.dhi-roma.it/resources/institution_209,Conseranensis,0.2857142857142857,0.2857142857142857,2,7,1,significant
-525,https://g17.dhi-roma.it/resources/institution_68,Arelatensis,0.2777777777777778,0.3333333333333333,3,9,1,significant
-221,https://g17.dhi-roma.it/resources/institution_273,Gallipolitana,0.25,0.25,2,6,1,significant
-162,https://g17.dhi-roma.it/resources/institution_197,Clusinensis,0.25,0.25,3,12,1,significant
-282,https://g17.dhi-roma.it/resources/institution_356,Marianensis,0.24038461538461536,0.24038461538461536,2,8,1,significant
-300,https://g17.dhi-roma.it/resources/institution_379,Miletensis,0.23905723905723905,0.2760942760942761,3,9,1,significant
-279,https://g17.dhi-roma.it/resources/institution_352,Macleviensis,0.21428571428571427,0.2857142857142857,4,14,1,significant
-213,https://g17.dhi-roma.it/resources/institution_264,Foroliviensis,0.20833333333333334,0.22916666666666669,4,16,1,significant
-302,https://g17.dhi-roma.it/resources/institution_381,Mimatensis,0.20227038183694532,0.24664602683178535,10,38,1,significant
-377,https://g17.dhi-roma.it/resources/institution_469,Portugallensis,0.20054945054945053,0.25824175824175827,4,14,1,significant
-185,https://g17.dhi-roma.it/resources/institution_222,Cremensis,0.2,0.2,1,5,1,significant
-56,https://g17.dhi-roma.it/resources/institution_1106,nullius seu sancti flori,0.2,0.2,1,5,1,significant
-507,https://g17.dhi-roma.it/resources/institution_638,Vivariensis,0.19690992767915844,0.2695595003287311,4,13,1,significant
-180,https://g17.dhi-roma.it/resources/institution_216,Corisopitensis,0.19675925925925927,0.22685185185185186,7,27,1,significant
-564,https://g17.dhi-roma.it/resources/institution_81,Aturensis,0.1876750700280112,0.23529411764705882,5,21,1,significant
-406,https://g17.dhi-roma.it/resources/institution_501,Sagiensis,0.18668503213957757,0.23213957759412304,8,33,1,significant
-365,https://g17.dhi-roma.it/resources/institution_456,Pientina,0.1854636591478697,0.3709273182957394,6,14,1,significant
-493,https://g17.dhi-roma.it/resources/institution_620,Venetensis,0.17753759398496244,0.24718045112781956,7,25,1,high
-289,https://g17.dhi-roma.it/resources/institution_364,Matisconensis,0.15961472308221536,0.2081183350533196,8,34,1,high
-417,https://g17.dhi-roma.it/resources/institution_517,Sancti Papuli,0.15,0.2,2,10,1,high
-530,https://g17.dhi-roma.it/resources/institution_687,Tudertin,0.14008295625942682,0.28016591251885364,4,12,1,high
-108,https://g17.dhi-roma.it/resources/institution_132,Brugnatensis,0.1393939393939394,0.2787878787878788,2,5,1,high
-311,https://g17.dhi-roma.it/resources/institution_392,Montis Alti/Montisalti,0.13846153846153847,0.1769230769230769,2,10,1,high
-211,https://g17.dhi-roma.it/resources/institution_262,Florentina,0.13818181818181818,0.27636363636363637,7,25,1,high
-487,https://g17.dhi-roma.it/resources/institution_610,Vapincensis,0.13775510204081634,0.20408163265306123,3,14,1,high
-403,https://g17.dhi-roma.it/resources/institution_499,Ruthenensis,0.13693810857676406,0.18143924236361214,13,63,1,high
-551,https://g17.dhi-roma.it/resources/institution_714,Fanensis,0.13567251461988306,0.1824561403508772,2,9,1,high
-271,https://g17.dhi-roma.it/resources/institution_344,Lucana,0.13493011621124423,0.22600058329968142,10,38,1,high
-554,https://g17.dhi-roma.it/resources/institution_719,Imolensis,0.1341880341880342,0.2683760683760684,3,9,1,high
-361,https://g17.dhi-roma.it/resources/institution_450,Pennensis,0.13414634146341464,0.2682926829268293,11,41,1,high
-39,https://g17.dhi-roma.it/resources/institution_1089,castrensis provincia bituricensis,0.13390313390313388,0.13390313390313388,3,21,1,high
-172,https://g17.dhi-roma.it/resources/institution_208,Consanensis,0.1322314049586777,0.2644628099173554,3,11,1,high
-436,https://g17.dhi-roma.it/resources/institution_542,Squillacensis,0.12962962962962965,0.1851851851851852,2,9,1,high
-544,https://g17.dhi-roma.it/resources/institution_705,Montis Pelusii,0.1294979530273648,0.16375781081663435,4,21,1,high
-391,https://g17.dhi-roma.it/resources/institution_486,Regiensis,0.12867647058823528,0.1661764705882353,4,20,1,high
-440,https://g17.dhi-roma.it/resources/institution_55,Aniciensis,0.12724014336917563,0.15770609318996417,5,31,1,high
-249,https://g17.dhi-roma.it/resources/institution_317,Lascurensis,0.12626262626262627,0.16161616161616163,2,11,1,high
-456,https://g17.dhi-roma.it/resources/institution_57,Appamiensis / Appamiarum,0.12603174603174602,0.1898412698412698,3,15,1,high
-438,https://g17.dhi-roma.it/resources/institution_548,Sulmonensis,0.12525252525252528,0.1696969696969697,2,9,1,high
-454,https://g17.dhi-roma.it/resources/institution_566,Tirasonensis,0.125,0.16666666666666666,2,12,1,high
-128,https://g17.dhi-roma.it/resources/institution_153,Camplensis,0.125,0.25,2,8,1,high
-193,https://g17.dhi-roma.it/resources/institution_235,Diensis,0.12244897959183675,0.12244897959183675,1,7,1,high
-397,https://g17.dhi-roma.it/resources/institution_493,Rossanensis,0.1211764705882353,0.2423529411764706,3,10,1,high
-306,https://g17.dhi-roma.it/resources/institution_386,Mirapicensis,0.12,0.12,1,8,1,high
-126,https://g17.dhi-roma.it/resources/institution_151,Campaniensis,0.11929824561403508,0.23859649122807017,2,7,1,high
-420,https://g17.dhi-roma.it/resources/institution_521,Sarlatensis,0.11385569852941177,0.14315257352941177,5,32,1,typical
-392,https://g17.dhi-roma.it/resources/institution_487,Remensis,0.10900852878464819,0.15831556503198296,11,67,1,typical
-103,https://g17.dhi-roma.it/resources/institution_127,Briocensis,0.10714285714285714,0.14285714285714285,2,14,1,typical
-471,https://g17.dhi-roma.it/resources/institution_589,Turonensis,0.10609719737626715,0.1191711389385808,11,86,1,typical
-573,https://g17.dhi-roma.it/resources/institution_94,Baiocensis,0.10585919928025192,0.14077822762033287,8,52,1,typical
-363,https://g17.dhi-roma.it/resources/institution_453,Petrocoricensis,0.10532467532467532,0.11532467532467532,6,50,1,typical
-501,https://g17.dhi-roma.it/resources/institution_63,Aquilana,0.1035650623885918,0.2071301247771836,11,48,1,typical
-210,https://g17.dhi-roma.it/resources/institution_261,Firmana,0.10266197940346547,0.20532395880693094,8,33,1,typical
-316,https://g17.dhi-roma.it/resources/institution_400,Muranensis,0.10113636363636364,0.20227272727272727,3,11,1,typical
-570,https://g17.dhi-roma.it/resources/institution_91,Avellinensis,0.1,0.2,1,5,1,typical
-201,https://g17.dhi-roma.it/resources/institution_248,Elvensis,0.1,0.2,1,5,1,typical
-263,https://g17.dhi-roma.it/resources/institution_333,Liciensis,0.1,0.1,1,10,1,typical
-14,https://g17.dhi-roma.it/resources/institution_1061,Viennensis in Delphinatu,0.1,0.13333333333333333,4,30,1,typical
-254,https://g17.dhi-roma.it/resources/institution_323,Lectoriensis,0.1,0.13333333333333333,2,15,1,typical
-236,https://g17.dhi-roma.it/resources/institution_297,Hydruntina,0.0967428293631502,0.1934856587263004,6,22,1,typical
-521,https://g17.dhi-roma.it/resources/institution_670,Vasatensis,0.09612726669615215,0.1396229544449359,6,38,1,typical
-60,https://g17.dhi-roma.it/resources/institution_111,Bisuntina,0.09288194444444445,0.1232638888888889,8,64,1,typical
-140,https://g17.dhi-roma.it/resources/institution_168,Castrensis,0.09259259259259262,0.09259259259259262,1,9,1,typical
-443,https://g17.dhi-roma.it/resources/institution_552,Tarbiensis,0.09210526315789473,0.10526315789473684,4,38,1,typical
-566,https://g17.dhi-roma.it/resources/institution_85,Aurelianensis,0.09148550724637682,0.125,9,69,1,typical
-155,https://g17.dhi-roma.it/resources/institution_189,Civitatis Castelli,0.09090909090909091,0.18181818181818182,6,26,1,typical
-482,https://g17.dhi-roma.it/resources/institution_604,Vabrensis,0.09090909090909091,0.09090909090909091,2,22,1,typical
-414,https://g17.dhi-roma.it/resources/institution_513,Sancti Flori,0.08928571428571429,0.13311688311688313,6,44,1,typical
-331,https://g17.dhi-roma.it/resources/institution_414,Neritonensis,0.0875,0.175,3,16,1,typical
-547,https://g17.dhi-roma.it/resources/institution_709,Noviomensis,0.08717948717948718,0.1094017094017094,5,45,1,typical
-265,https://g17.dhi-roma.it/resources/institution_336,Lingonensis,0.086284504533973,0.11232804521252432,10,83,1,typical
-200,https://g17.dhi-roma.it/resources/institution_246,Elnensis,0.08333333333333334,0.09523809523809525,3,28,1,typical
-396,https://g17.dhi-roma.it/resources/institution_491,Rivensis,0.08333333333333333,0.1111111111111111,2,18,1,typical
-209,https://g17.dhi-roma.it/resources/institution_26,Agennensis,0.08333333333333333,0.125,3,24,1,typical
-149,https://g17.dhi-roma.it/resources/institution_180,Cenetensis,0.08333333333333333,0.16666666666666666,1,6,1,typical
-153,https://g17.dhi-roma.it/resources/institution_187,Civitatensis Provinciae Compostellani,0.08333333333333333,0.08333333333333333,1,12,1,typical
-255,https://g17.dhi-roma.it/resources/institution_324,Legionensis,0.08271298593879238,0.10339123242349049,4,31,1,typical
-114,https://g17.dhi-roma.it/resources/institution_138,Cabilonensis,0.08080808080808081,0.10858585858585859,4,36,1,typical
-262,https://g17.dhi-roma.it/resources/institution_332,Lexoviensis,0.08043794440853265,0.10485347985347986,6,51,1,typical
-409,https://g17.dhi-roma.it/resources/institution_504,Salernitana,0.07894736842105263,0.10526315789473684,2,19,1,typical
-251,https://g17.dhi-roma.it/resources/institution_319,Laudunensis,0.07894736842105263,0.07894736842105263,3,38,1,typical
-437,https://g17.dhi-roma.it/resources/institution_547,Suessionensis,0.07871396895787139,0.10864745011086474,9,82,1,typical
-159,https://g17.dhi-roma.it/resources/institution_192,Claromontensis,0.07708211700196706,0.09812537652966996,13,121,1,typical
-196,https://g17.dhi-roma.it/resources/institution_241,Eburovicensis,0.0769263845889233,0.09592148262813897,5,48,1,typical
-519,https://g17.dhi-roma.it/resources/institution_669,Uticensis,0.07692307692307693,0.07692307692307693,2,26,1,typical
-389,https://g17.dhi-roma.it/resources/institution_483,Recanatensis,0.07692307692307693,0.15384615384615385,2,13,1,typical
-98,https://g17.dhi-roma.it/resources/institution_120,Bononiensis,0.07578947368421052,0.15157894736842104,3,19,1,typical
-457,https://g17.dhi-roma.it/resources/institution_570,Tolosana,0.07543103448275862,0.08189655172413793,5,58,1,typical
-401,https://g17.dhi-roma.it/resources/institution_497,Rupellensis,0.075,0.125,10,80,1,typical
-275,https://g17.dhi-roma.it/resources/institution_349,Lugdunensis,0.07436766249459749,0.11725384350771348,12,90,1,typical
-276,https://g17.dhi-roma.it/resources/institution_35,Albinganensis,0.07407407407407407,0.07407407407407407,2,27,1,typical
-115,https://g17.dhi-roma.it/resources/institution_139,Cadurcensis,0.07392026578073091,0.09136212624584718,8,86,1,typical
-510,https://g17.dhi-roma.it/resources/institution_643,Vulturariensis,0.07142857142857142,0.14285714285714285,1,5,1,typical
-119,https://g17.dhi-roma.it/resources/institution_142,Caietana,0.07142857142857142,0.14285714285714285,1,7,1,typical
-542,https://g17.dhi-roma.it/resources/institution_703,Sancti Angeli de Lombardis,0.07142857142857142,0.14285714285714285,1,7,1,typical
-223,https://g17.dhi-roma.it/resources/institution_276,Gebennensis,0.07142857142857142,0.11428571428571428,4,35,1,typical
-360,https://g17.dhi-roma.it/resources/institution_45,Ambianensis,0.06914893617021277,0.07446808510638298,7,94,1,typical
-432,https://g17.dhi-roma.it/resources/institution_534,Silvanectensis,0.06828885400313972,0.10800627943485086,4,35,1,typical
-321,https://g17.dhi-roma.it/resources/institution_405,Narniensis,0.06680161943319837,0.13360323886639675,3,19,1,typical
-568,https://g17.dhi-roma.it/resources/institution_90,Auxitana,0.06608482485675468,0.08376159253352235,5,54,1,typical
-320,https://g17.dhi-roma.it/resources/institution_404,Narbonensis,0.06576797385620915,0.08986928104575163,5,48,1,typical
-532,https://g17.dhi-roma.it/resources/institution_69,Aretina,0.06528354602431473,0.10617684814619044,5,41,1,typical
-293,https://g17.dhi-roma.it/resources/institution_369,Mediolanensis,0.06318910256410257,0.10637820512820513,5,40,1,typical
-364,https://g17.dhi-roma.it/resources/institution_455,Pictaviensis,0.0626708317063647,0.07431992711180528,16,197,1,typical
-144,https://g17.dhi-roma.it/resources/institution_174,Cathacensis,0.0625,0.125,1,8,1,typical
-202,https://g17.dhi-roma.it/resources/institution_25,Agathensis,0.0625,0.0625,2,32,1,typical
-198,https://g17.dhi-roma.it/resources/institution_243,Augustodunensis,0.0606516290726817,0.09590643274853801,7,63,1,typical
-483,https://g17.dhi-roma.it/resources/institution_605,Valentina,0.06060606060606061,0.09090909090909091,3,33,1,typical
-175,https://g17.dhi-roma.it/resources/institution_211,Convenarum,0.05896805896805896,0.06388206388206388,5,74,1,typical
-3,https://g17.dhi-roma.it/resources/institution_1018,Casalensis,0.058823529411764705,0.058823529411764705,1,14,1,typical
-21,https://g17.dhi-roma.it/resources/institution_1069,eduensis,0.058823529411764705,0.058823529411764705,1,17,1,typical
-64,https://g17.dhi-roma.it/resources/institution_1117,electensis,0.058823529411764705,0.11764705882352941,1,7,1,typical
-538,https://g17.dhi-roma.it/resources/institution_699,Aquensis in Provincie,0.058823529411764705,0.058823529411764705,1,17,1,typical
-572,https://g17.dhi-roma.it/resources/institution_93,Avinionensis,0.058823529411764705,0.058823529411764705,1,17,1,typical
-205,https://g17.dhi-roma.it/resources/institution_254,Faventina,0.05840676351512265,0.1168135270302453,5,38,1,typical
-272,https://g17.dhi-roma.it/resources/institution_345,Lucensis,0.057692307692307696,0.11538461538461539,2,14,1,typical
-274,https://g17.dhi-roma.it/resources/institution_348,Lucionensis,0.057692307692307696,0.07692307692307693,4,52,1,typical
-142,https://g17.dhi-roma.it/resources/institution_172,Catalaunensis,0.057489963739963734,0.0736046361046361,7,78,1,typical
-528,https://g17.dhi-roma.it/resources/institution_682,Bisceglie,0.05714285714285715,0.1142857142857143,2,15,1,typical
-475,https://g17.dhi-roma.it/resources/institution_592,Ugentina,0.05714285714285715,0.1142857142857143,1,7,1,typical
-188,https://g17.dhi-roma.it/resources/institution_23,Adriensis,0.05714285714285715,0.1142857142857143,1,7,1,typical
-131,https://g17.dhi-roma.it/resources/institution_157,Carcassonensis,0.05714285714285714,0.05714285714285714,2,35,1,typical
-399,https://g17.dhi-roma.it/resources/institution_495,Rothomagensis,0.05644146193509251,0.07466636336063089,13,157,1,typical
-455,https://g17.dhi-roma.it/resources/institution_569,Toletana,0.05555555555555555,0.05555555555555555,1,18,1,typical
-110,https://g17.dhi-roma.it/resources/institution_134,Burgensis,0.05555555555555555,0.1111111111111111,3,27,1,typical
-550,https://g17.dhi-roma.it/resources/institution_713,Elborensis,0.05555555555555555,0.1111111111111111,1,9,1,typical
-328,https://g17.dhi-roma.it/resources/institution_411,Nemausensis,0.05432372505543238,0.0665188470066519,3,41,1,typical
-404,https://g17.dhi-roma.it/resources/institution_50,Andegavensis,0.05349846782431052,0.0698842356145727,19,267,1,typical
-6,https://g17.dhi-roma.it/resources/institution_104,Bellovacensis,0.052910052910052914,0.07407407407407408,5,63,1,typical
-168,https://g17.dhi-roma.it/resources/institution_204,Conchensis,0.0527027027027027,0.07837837837837838,3,37,1,typical
-239,https://g17.dhi-roma.it/resources/institution_305,Ispalensis,0.052691387559808615,0.10538277511961723,5,44,1,typical
-535,https://g17.dhi-roma.it/resources/institution_694,Patavina,0.05263157894736842,0.10526315789473684,2,19,1,typical
-317,https://g17.dhi-roma.it/resources/institution_401,Mutinensis,0.05263157894736842,0.05263157894736842,1,19,1,typical
-569,https://g17.dhi-roma.it/resources/institution_904,Syracuse,0.05102040816326531,0.10204081632653061,1,7,1,typical
-370,https://g17.dhi-roma.it/resources/institution_460,Placentina provinciae Bononiensis,0.05036764705882353,0.07224264705882352,5,64,1,typical
-99,https://g17.dhi-roma.it/resources/institution_123,Bovensis,0.05,0.1,1,10,1,typical
-574,https://g17.dhi-roma.it/resources/institution_95,Baionensis,0.05,0.1,1,10,1,typical
-137,https://g17.dhi-roma.it/resources/institution_164,Casertana,0.05,0.1,1,10,1,typical
-72,https://g17.dhi-roma.it/resources/institution_113,Biterensis,0.04941860465116279,0.09883720930232558,5,43,1,typical
-393,https://g17.dhi-roma.it/resources/institution_488,Rheginensis,0.04938271604938271,0.09876543209876543,1,9,1,typical
-319,https://g17.dhi-roma.it/resources/institution_403,Nannetensis,0.048809523809523817,0.05476190476190476,4,70,1,typical
-408,https://g17.dhi-roma.it/resources/institution_503,Salamantina,0.04838709677419355,0.06451612903225806,2,31,1,typical
-523,https://g17.dhi-roma.it/resources/institution_677,Alatrina,0.04807692307692307,0.09615384615384615,1,8,1,typical
-258,https://g17.dhi-roma.it/resources/institution_327,Lemovicensis,0.0479477044694436,0.06032228640924293,9,138,1,typical
-167,https://g17.dhi-roma.it/resources/institution_203,Compostellana,0.04727668845315904,0.07363834422657951,4,45,1,typical
-109,https://g17.dhi-roma.it/resources/institution_133,Burdegalensis,0.046686496380730504,0.07357101256344122,8,101,1,typical
-485,https://g17.dhi-roma.it/resources/institution_608,Vallisolitana,0.045454545454545456,0.09090909090909091,1,11,1,typical
-242,https://g17.dhi-roma.it/resources/institution_308,Januensis,0.045454545454545456,0.045454545454545456,1,22,1,typical
-476,https://g17.dhi-roma.it/resources/institution_593,Ulixboniensis,0.045454545454545456,0.09090909090909091,2,22,1,typical
-250,https://g17.dhi-roma.it/resources/institution_318,Laudensis,0.045454545454545456,0.09090909090909091,1,11,1,typical
-0,https://g17.dhi-roma.it/resources/institution_100,Barensis,0.045454545454545456,0.09090909090909091,2,22,1,typical
-208,https://g17.dhi-roma.it/resources/institution_259,Feruntina,0.044444444444444446,0.044444444444444446,1,15,1,typical
-518,https://g17.dhi-roma.it/resources/institution_668,Vercellensis,0.04385964912280702,0.08771929824561404,2,19,1,typical
-559,https://g17.dhi-roma.it/resources/institution_74,Asculana,0.043338815789473684,0.08667763157894737,4,40,1,typical
-150,https://g17.dhi-roma.it/resources/institution_181,Cenomanensis,0.04318753142282554,0.0489693313222725,8,153,1,typical
-334,https://g17.dhi-roma.it/resources/institution_418,Nivernensis,0.0425531914893617,0.06382978723404255,3,47,1,typical
-527,https://g17.dhi-roma.it/resources/institution_681,San Severino,0.041666666666666664,0.08333333333333333,1,12,1,typical
-88,https://g17.dhi-roma.it/resources/institution_116,Bobiensis,0.041666666666666664,0.08333333333333333,1,12,1,typical
-157,https://g17.dhi-roma.it/resources/institution_190,Civitatis Ducalis,0.04040404040404041,0.08080808080808081,1,9,1,typical
-82,https://g17.dhi-roma.it/resources/institution_115,Bituricensis,0.03847520291716607,0.04604140720468183,7,122,1,typical
-240,https://g17.dhi-roma.it/resources/institution_306,Jacensis,0.038461538461538464,0.07692307692307693,1,8,1,typical
-291,https://g17.dhi-roma.it/resources/institution_366,Mazariensis,0.038461538461538464,0.07692307692307693,1,8,1,typical
-447,https://g17.dhi-roma.it/resources/institution_557,Terdonensis,0.0380952380952381,0.0380952380952381,1,21,1,typical
-124,https://g17.dhi-roma.it/resources/institution_149,Camerinensis,0.03772378516624041,0.07544757033248083,4,46,1,typical
-425,https://g17.dhi-roma.it/resources/institution_528,Segobiensis,0.03748006379585327,0.07496012759170655,3,33,1,typical
-526,https://g17.dhi-roma.it/resources/institution_680,Antissiodorensis,0.03696303696303697,0.04795204795204795,2,28,1,typical
-549,https://g17.dhi-roma.it/resources/institution_711,Constantiensis provincia rothomagen,0.036458333333333336,0.07291666666666667,3,36,1,typical
-166,https://g17.dhi-roma.it/resources/institution_202,Comensis,0.03506787330316742,0.07013574660633484,2,26,1,typical
-204,https://g17.dhi-roma.it/resources/institution_251,Eugubina,0.03409090909090909,0.06818181818181818,1,11,1,typical
-390,https://g17.dhi-roma.it/resources/institution_484,Redonensis,0.03409090909090909,0.045454545454545456,2,44,1,typical
-225,https://g17.dhi-roma.it/resources/institution_279,Giennensis,0.03333333333333333,0.06666666666666667,1,15,1,typical
-571,https://g17.dhi-roma.it/resources/institution_92,Aversana,0.03333333333333333,0.03333333333333333,1,30,1,typical
-134,https://g17.dhi-roma.it/resources/institution_160,Carnotensis,0.03269771067784313,0.06539542135568625,12,151,1,typical
-470,https://g17.dhi-roma.it/resources/institution_587,Tullensis,0.032402791625124626,0.04785643070787637,3,59,1,typical
-228,https://g17.dhi-roma.it/resources/institution_285,Gratianopolitana,0.03225806451612903,0.03225806451612903,1,31,1,typical
-366,https://g17.dhi-roma.it/resources/institution_457,Pisana,0.03125,0.0625,1,16,1,typical
-479,https://g17.dhi-roma.it/resources/institution_598,Urbinatensis,0.031111111111111107,0.062222222222222213,1,15,1,typical
-189,https://g17.dhi-roma.it/resources/institution_231,Cusentina,0.03076923076923077,0.06153846153846154,1,13,1,typical
-237,https://g17.dhi-roma.it/resources/institution_298,Illerdensis,0.030612244897959183,0.04081632653061224,2,49,1,typical
-345,https://g17.dhi-roma.it/resources/institution_431,Oscensis,0.030303030303030307,0.030303030303030307,1,22,1,typical
-129,https://g17.dhi-roma.it/resources/institution_155,Capuana,0.03007518796992481,0.06015037593984962,1,14,1,typical
-268,https://g17.dhi-roma.it/resources/institution_34,Albiensis,0.03,0.04,2,50,1,typical
-552,https://g17.dhi-roma.it/resources/institution_715,Fesulana,0.029411764705882353,0.058823529411764705,1,17,1,typical
-101,https://g17.dhi-roma.it/resources/institution_125,Bracharensis,0.029017857142857144,0.05803571428571429,2,32,1,typical
-358,https://g17.dhi-roma.it/resources/institution_445,Parisiensis,0.02887788778877888,0.037953795379537955,4,101,1,typical
-203,https://g17.dhi-roma.it/resources/institution_250,Engolismensis,0.027777777777777783,0.027777777777777783,1,30,1,typical
-504,https://g17.dhi-roma.it/resources/institution_635,Virdunensis,0.02777777777777778,0.05555555555555556,1,12,1,typical
-522,https://g17.dhi-roma.it/resources/institution_674,taurinensis,0.027777777777777776,0.05555555555555555,1,18,1,typical
-562,https://g17.dhi-roma.it/resources/institution_78,Astoricensis,0.027083333333333334,0.05416666666666667,2,30,1,typical
-481,https://g17.dhi-roma.it/resources/institution_600,Urgellensis,0.02702702702702703,0.02702702702702703,1,37,1,typical
-513,https://g17.dhi-roma.it/resources/institution_647,Xanctonensis,0.026802465826856074,0.03202894666309301,3,82,1,typical
-246,https://g17.dhi-roma.it/resources/institution_313,Lamacensis,0.02631578947368421,0.05263157894736842,1,19,1,typical
-445,https://g17.dhi-roma.it/resources/institution_555,Tarraconensis,0.02631578947368421,0.05263157894736842,1,19,1,typical
-509,https://g17.dhi-roma.it/resources/institution_641,Volaterrana,0.026041666666666668,0.052083333333333336,1,12,1,typical
-117,https://g17.dhi-roma.it/resources/institution_140,Caesaraugustana,0.02564102564102564,0.02564102564102564,2,78,1,typical
-280,https://g17.dhi-roma.it/resources/institution_354,Maioricensis,0.025,0.05,1,20,1,typical
-277,https://g17.dhi-roma.it/resources/institution_350,Lunensarzanen,0.023956043956043956,0.032527472527472526,2,50,1,typical
-500,https://g17.dhi-roma.it/resources/institution_629,Vicensis,0.023809523809523808,0.023809523809523808,1,42,1,typical
-463,https://g17.dhi-roma.it/resources/institution_58,Teramensis seu Apruntina,0.02366863905325444,0.04733727810650888,1,13,1,typical
-206,https://g17.dhi-roma.it/resources/institution_256,Feretrana,0.02287581699346405,0.0457516339869281,1,18,1,typical
-335,https://g17.dhi-roma.it/resources/institution_419,Nolana,0.022321428571428572,0.044642857142857144,1,14,1,typical
-480,https://g17.dhi-roma.it/resources/institution_599,Urbis seu Romana,0.02204861111111111,0.04409722222222222,2,40,1,typical
-130,https://g17.dhi-roma.it/resources/institution_156,Caputaquensis,0.021390374331550804,0.04278074866310161,1,17,1,typical
-439,https://g17.dhi-roma.it/resources/institution_549,Surrentina,0.020761245674740483,0.04152249134948097,1,17,1,typical
-295,https://g17.dhi-roma.it/resources/institution_370,Meldensis,0.01937984496124031,0.03875968992248062,2,43,1,typical
-355,https://g17.dhi-roma.it/resources/institution_441,Pampilonensis,0.018867924528301886,0.018867924528301886,1,53,1,typical
-357,https://g17.dhi-roma.it/resources/institution_443,Papiensis,0.01851851851851852,0.03703703703703704,1,18,1,typical
-259,https://g17.dhi-roma.it/resources/institution_328,Leodiensis,0.0178938708350473,0.024132730015082954,2,66,1,typical
-435,https://g17.dhi-roma.it/resources/institution_541,Spoletana,0.017241379310344827,0.034482758620689655,1,29,1,typical
-186,https://g17.dhi-roma.it/resources/institution_223,Cremonensis,0.01666666666666667,0.03333333333333334,1,20,1,typical
-224,https://g17.dhi-roma.it/resources/institution_277,Gerundensis,0.01639344262295082,0.01639344262295082,1,61,1,typical
-170,https://g17.dhi-roma.it/resources/institution_206,Condomiensis,0.016129032258064516,0.03225806451612903,1,31,1,typical
-430,https://g17.dhi-roma.it/resources/institution_532,Senonensis,0.013333333333333334,0.016666666666666666,2,100,1,typical
-359,https://g17.dhi-roma.it/resources/institution_446,Parmensis,0.013008373205741627,0.026016746411483254,2,66,1,typical
-577,https://g17.dhi-roma.it/resources/institution_99,Barchinonensis,0.012820512820512822,0.025641025641025644,2,65,1,typical
-125,https://g17.dhi-roma.it/resources/institution_15,Abulensis,0.0125,0.025,1,40,1,typical
-567,https://g17.dhi-roma.it/resources/institution_86,Auriensis,0.012307692307692308,0.024615384615384615,1,25,1,typical
-120,https://g17.dhi-roma.it/resources/institution_143,Calaguritana,0.01183431952662722,0.02366863905325444,1,26,1,typical
-497,https://g17.dhi-roma.it/resources/institution_625,Veronensis,0.011363636363636364,0.022727272727272728,1,44,1,typical
-297,https://g17.dhi-roma.it/resources/institution_373,Melphitensis,0.010869565217391304,0.021739130434782608,1,46,1,typical
-460,https://g17.dhi-roma.it/resources/institution_576,Trecorensis,0.008974358974358974,0.017948717948717947,1,52,1,typical
-207,https://g17.dhi-roma.it/resources/institution_258,Ferrariensis,0.0,0.0,0,8,1,typical
-164,https://g17.dhi-roma.it/resources/institution_200,Coloniensis,0.0,0.0,0,5,1,typical
-296,https://g17.dhi-roma.it/resources/institution_372,Melphiensis,0.0,0.0,0,26,1,typical
-192,https://g17.dhi-roma.it/resources/institution_234,Dertusensis,0.0,0.0,0,18,1,typical
-176,https://g17.dhi-roma.it/resources/institution_212,Conversanensis,0.0,0.0,0,5,1,typical
-179,https://g17.dhi-roma.it/resources/institution_215,Cordubensis,0.0,0.0,0,15,1,typical
-232,https://g17.dhi-roma.it/resources/institution_292,Hieracensis,0.0,0.0,0,12,1,typical
-220,https://g17.dhi-roma.it/resources/institution_272,Gadicensis,0.0,0.0,0,6,1,typical
-163,https://g17.dhi-roma.it/resources/institution_199,Collensis,0.0,0.0,0,10,1,typical
-231,https://g17.dhi-roma.it/resources/institution_29,Agrigentina,0.0,0.0,0,7,1,typical
-230,https://g17.dhi-roma.it/resources/institution_287,Grossetana,0.0,0.0,0,5,1,typical
-148,https://g17.dhi-roma.it/resources/institution_179,Celsonensis,0.0,0.0,0,13,1,typical
-218,https://g17.dhi-roma.it/resources/institution_269,Fulginatensis,0.0,0.0,0,11,1,typical
-152,https://g17.dhi-roma.it/resources/institution_184,Casenatensis,0.0,0.0,0,14,1,typical
-199,https://g17.dhi-roma.it/resources/institution_244,Egitaniensis,0.0,0.0,0,6,1,typical
-269,https://g17.dhi-roma.it/resources/institution_340,Lomberiensis,0.0,0.0,0,6,1,typical
-233,https://g17.dhi-roma.it/resources/institution_294,Hipporegiensis,0.0,0.0,0,8,1,typical
-294,https://g17.dhi-roma.it/resources/institution_37,Aleriensis,0.0,0.0,0,7,1,typical
-270,https://g17.dhi-roma.it/resources/institution_341,Lotevensis,0.0,0.0,0,12,1,typical
-123,https://g17.dhi-roma.it/resources/institution_148,Cameracensis,0.0,0.0,0,14,1,typical
-122,https://g17.dhi-roma.it/resources/institution_146,Calvensis,0.0,0.0,0,6,1,typical
-281,https://g17.dhi-roma.it/resources/institution_355,Mantuana,0.0,0.0,0,12,1,typical
-116,https://g17.dhi-roma.it/resources/institution_14,Abrincensis,0.0,0.0,0,14,1,typical
-288,https://g17.dhi-roma.it/resources/institution_363,Materanensis,0.0,0.0,0,18,1,typical
-290,https://g17.dhi-roma.it/resources/institution_365,Maurianensis,0.0,0.0,0,5,1,typical
-292,https://g17.dhi-roma.it/resources/institution_367,Mechliniensis-Bruxellensis,0.0,0.0,0,8,1,typical
-283,https://g17.dhi-roma.it/resources/institution_357,Marsicana,0.0,0.0,0,10,1,typical
-238,https://g17.dhi-roma.it/resources/institution_304,Iserniensis,0.0,0.0,0,10,1,typical
-241,https://g17.dhi-roma.it/resources/institution_307,Jadrensis,0.0,0.0,0,8,1,typical
-244,https://g17.dhi-roma.it/resources/institution_310,Juvenacensis,0.0,0.0,0,15,1,typical
-138,https://g17.dhi-roma.it/resources/institution_166,Cassanensis,0.0,0.0,0,6,1,typical
-212,https://g17.dhi-roma.it/resources/institution_263,Foroiuliensis,0.0,0.0,0,10,1,typical
-310,https://g17.dhi-roma.it/resources/institution_391,Montis Albani,0.0,0.0,0,15,1,typical
-371,https://g17.dhi-roma.it/resources/institution_461,Placentina provinciae Compostellanae,0.0,0.0,0,27,1,typical
-299,https://g17.dhi-roma.it/resources/institution_376,Metensis,0.0,0.0,0,5,1,typical
-312,https://g17.dhi-roma.it/resources/institution_393,Montis Falisci/Montis Flaconensis,0.0,0.0,0,12,1,typical
-253,https://g17.dhi-roma.it/resources/institution_320,Lauretana,0.0,0.0,0,13,1,typical
-307,https://g17.dhi-roma.it/resources/institution_387,Moguntina,0.0,0.0,0,6,1,typical
-105,https://g17.dhi-roma.it/resources/institution_129,Brixiensis,0.0,0.0,0,16,1,typical
-304,https://g17.dhi-roma.it/resources/institution_383,Mindoniensis,0.0,0.0,0,9,1,typical
-111,https://g17.dhi-roma.it/resources/institution_135,Burgi S. Donnini,0.0,0.0,0,13,1,typical
-97,https://g17.dhi-roma.it/resources/institution_119,Boloniensis,0.0,0.0,0,12,1,typical
-85,https://g17.dhi-roma.it/resources/institution_1154,sancti pontii thomeriarum,0.0,0.0,0,5,1,typical
-342,https://g17.dhi-roma.it/resources/institution_427,Oloronensis,0.0,0.0,0,6,1,typical
-338,https://g17.dhi-roma.it/resources/institution_421,Novariensis,0.0,0.0,0,28,1,typical
-336,https://g17.dhi-roma.it/resources/institution_42,Alifana,0.0,0.0,0,17,1,typical
-329,https://g17.dhi-roma.it/resources/institution_412,Neocastrensis,0.0,0.0,0,9,1,typical
-326,https://g17.dhi-roma.it/resources/institution_41,Algarensis,0.0,0.0,0,6,1,typical
-325,https://g17.dhi-roma.it/resources/institution_409,Neapolitana,0.0,0.0,0,11,1,typical
-102,https://g17.dhi-roma.it/resources/institution_126,Brindusina,0.0,0.0,0,16,1,typical
-298,https://g17.dhi-roma.it/resources/institution_375,Messanensis,0.0,0.0,0,65,1,typical
-380,https://g17.dhi-roma.it/resources/institution_471,Potentina,0.0,0.0,0,6,1,typical
-385,https://g17.dhi-roma.it/resources/institution_48,Anagnina,0.0,0.0,0,9,1,typical
-387,https://g17.dhi-roma.it/resources/institution_481,Ravennatensis,0.0,0.0,0,8,1,typical
-388,https://g17.dhi-roma.it/resources/institution_482,Reatina,0.0,0.0,0,33,1,typical
-395,https://g17.dhi-roma.it/resources/institution_490,Ripana,0.0,0.0,0,7,1,typical
-375,https://g17.dhi-roma.it/resources/institution_465,Polignanensis,0.0,0.0,0,9,1,typical
-348,https://g17.dhi-roma.it/resources/institution_434,Ostunensis,0.0,0.0,0,5,1,typical
-349,https://g17.dhi-roma.it/resources/institution_435,Ovetensis,0.0,0.0,0,30,1,typical
-350,https://g17.dhi-roma.it/resources/institution_436,Oxonensis,0.0,0.0,0,31,1,typical
-351,https://g17.dhi-roma.it/resources/institution_437,Pacensis,0.0,0.0,0,7,1,typical
-353,https://g17.dhi-roma.it/resources/institution_44,Amalphitana,0.0,0.0,0,8,1,typical
-354,https://g17.dhi-roma.it/resources/institution_440,Palentina,0.0,0.0,0,13,1,typical
-91,https://g17.dhi-roma.it/resources/institution_117,Boianensis,0.0,0.0,0,20,1,typical
-362,https://g17.dhi-roma.it/resources/institution_451,Perusina,0.0,0.0,0,15,1,typical
-368,https://g17.dhi-roma.it/resources/institution_459,Pistoriensis,0.0,0.0,0,13,1,typical
-136,https://g17.dhi-roma.it/resources/institution_162,Carthaginensis,0.0,0.0,0,13,1,typical
-490,https://g17.dhi-roma.it/resources/institution_615,Vaurensis,0.0,0.0,0,14,1,typical
-135,https://g17.dhi-roma.it/resources/institution_161,Carpentoractensis,0.0,0.0,0,6,1,typical
-441,https://g17.dhi-roma.it/resources/institution_550,Sutrina,0.0,0.0,0,5,1,typical
-405,https://g17.dhi-roma.it/resources/institution_500,Sabinensis,0.0,0.0,0,6,1,typical
-73,https://g17.dhi-roma.it/resources/institution_114,Bituntina,0.0,0.0,0,29,1,typical
-444,https://g17.dhi-roma.it/resources/institution_553,Tarentina,0.0,0.0,0,10,1,typical
-434,https://g17.dhi-roma.it/resources/institution_540,Spirensis,0.0,0.0,0,10,1,typical
-53,https://g17.dhi-roma.it/resources/institution_1102,Nullius seu Andegavensis,0.0,0.0,0,19,1,typical
-442,https://g17.dhi-roma.it/resources/institution_551,Taranthasiensis,0.0,0.0,0,8,1,typical
-57,https://g17.dhi-roma.it/resources/institution_1107,tricastrinensis,0.0,0.0,0,7,1,typical
-256,https://g17.dhi-roma.it/resources/institution_325,Leighliniensis,0.0,0.0,0,5,1,typical
-59,https://g17.dhi-roma.it/resources/institution_1109,montis pessulani,0.0,0.0,0,5,1,typical
-428,https://g17.dhi-roma.it/resources/institution_530,Senensis,0.0,0.0,0,27,1,typical
-426,https://g17.dhi-roma.it/resources/institution_529,Seguntin,0.0,0.0,0,56,1,typical
-495,https://g17.dhi-roma.it/resources/institution_623,Venusina,0.0,0.0,0,5,1,typical
-23,https://g17.dhi-roma.it/resources/institution_1070,faventina et spoletana,0.0,0.0,0,8,1,typical
-18,https://g17.dhi-roma.it/resources/institution_1065,aurelianensis seu bituricensis,0.0,0.0,0,12,1,typical
-411,https://g17.dhi-roma.it/resources/institution_509,Sancta Agathae Gothorum,0.0,0.0,0,10,1,typical
-415,https://g17.dhi-roma.it/resources/institution_515,Sancti Marci,0.0,0.0,0,5,1,typical
-446,https://g17.dhi-roma.it/resources/institution_556,Tarvisina,0.0,0.0,0,14,1,typical
-177,https://g17.dhi-roma.it/resources/institution_213,Corcagiensis,0.0,0.0,0,8,1,typical
-452,https://g17.dhi-roma.it/resources/institution_563,Thelesina/Theolesiensis,0.0,0.0,0,5,1,typical
-461,https://g17.dhi-roma.it/resources/institution_577,Treverensis,0.0,0.0,0,5,1,typical
-462,https://g17.dhi-roma.it/resources/institution_578,Tricaricensis,0.0,0.0,0,11,1,typical
-453,https://g17.dhi-roma.it/resources/institution_564,Tholonensis,0.0,0.0,0,14,1,typical
-50,https://g17.dhi-roma.it/resources/institution_110,Bisignanensis,0.0,0.0,0,7,1,typical
-466,https://g17.dhi-roma.it/resources/institution_583,Troiana,0.0,0.0,0,6,1,typical
-467,https://g17.dhi-roma.it/resources/institution_584,Tropiensis,0.0,0.0,0,8,1,typical
-451,https://g17.dhi-roma.it/resources/institution_562,Theatina,0.0,0.0,0,5,1,typical
-468,https://g17.dhi-roma.it/resources/institution_585,Tuamensis in Hybernia,0.0,0.0,0,6,1,typical
-469,https://g17.dhi-roma.it/resources/institution_586,Tudensis,0.0,0.0,0,9,1,typical
-448,https://g17.dhi-roma.it/resources/institution_559,Terracinensis,0.0,0.0,0,10,1,typical
-450,https://g17.dhi-roma.it/resources/institution_561,Theanensis,0.0,0.0,0,16,1,typical
-449,https://g17.dhi-roma.it/resources/institution_560,Terulensis,0.0,0.0,0,18,1,typical
-545,https://g17.dhi-roma.it/resources/institution_706,Calliensis,0.0,0.0,0,10,1,typical
-20,https://g17.dhi-roma.it/resources/institution_1068,ebredunensis,0.0,0.0,0,7,1,typical
-22,https://g17.dhi-roma.it/resources/institution_107,Beneventana,0.0,0.0,0,44,1,typical
-44,https://g17.dhi-roma.it/resources/institution_1094,malleacensis,0.0,0.0,0,5,1,typical
-133,https://g17.dhi-roma.it/resources/institution_16,Acernensis,0.0,0.0,0,7,1,typical
-260,https://g17.dhi-roma.it/resources/institution_329,Leonensis,0.0,0.0,0,15,1,typical
-37,https://g17.dhi-roma.it/resources/institution_1086,andegavensis seu cenomanensis aut pictavensis,0.0,0.0,0,6,1,typical
-505,https://g17.dhi-roma.it/resources/institution_636,Visensis,0.0,0.0,0,8,1,typical
-506,https://g17.dhi-roma.it/resources/institution_637,Viterbiensis,0.0,0.0,0,12,1,typical
-508,https://g17.dhi-roma.it/resources/institution_64,Aquilegiensis,0.0,0.0,0,12,1,typical
-34,https://g17.dhi-roma.it/resources/institution_1082,urbis - pergamensis et aliorum,0.0,0.0,0,17,1,typical
-516,https://g17.dhi-roma.it/resources/institution_651,Zamorensis,0.0,0.0,0,20,1,typical
-32,https://g17.dhi-roma.it/resources/institution_1080,spoletana - firmana et urbevetana,0.0,0.0,0,8,1,typical
-31,https://g17.dhi-roma.it/resources/institution_108,Bergomensis,0.0,0.0,0,16,1,typical
-524,https://g17.dhi-roma.it/resources/institution_679,Alexandrina diocesis provinciae Mediolanensis,0.0,0.0,0,6,1,typical
-502,https://g17.dhi-roma.it/resources/institution_630,Vicentina,0.0,0.0,0,18,1,typical
-46,https://g17.dhi-roma.it/resources/institution_1096,nullius dioc prov. ispalensis,0.0,0.0,0,5,1,typical
-478,https://g17.dhi-roma.it/resources/institution_597,Urbevetana,0.0,0.0,0,11,1,typical
-484,https://g17.dhi-roma.it/resources/institution_606,Valentina in Delphinatu,0.0,0.0,0,11,1,typical
-541,https://g17.dhi-roma.it/resources/institution_702,Triventinus,0.0,0.0,0,13,1,typical
-43,https://g17.dhi-roma.it/resources/institution_1093,condomiensis seu agennensis,0.0,0.0,0,8,1,typical
-486,https://g17.dhi-roma.it/resources/institution_609,Valvensis,0.0,0.0,0,15,1,typical
-42,https://g17.dhi-roma.it/resources/institution_1092,collensis et aliarum,0.0,0.0,0,21,1,typical
-496,https://g17.dhi-roma.it/resources/institution_624,Verulana,0.0,0.0,0,7,1,typical
-555,https://g17.dhi-roma.it/resources/institution_72,Ariminensis,0.0,0.0,0,9,1,typical
-558,https://g17.dhi-roma.it/resources/institution_723,Melevitana,0.0,0.0,0,10,1,typical
-561,https://g17.dhi-roma.it/resources/institution_77,Astensis,0.0,0.0,0,7,1,typical
-563,https://g17.dhi-roma.it/resources/institution_79,Atrebatensis,0.0,0.0,0,9,1,typical
-13,https://g17.dhi-roma.it/resources/institution_1060,cumana,0.0,0.0,0,6,1,typical
-576,https://g17.dhi-roma.it/resources/institution_98,Barbastrensis,0.0,0.0,0,6,1,typical
-11,https://g17.dhi-roma.it/resources/institution_1058,Constantiensis,0.0,0.0,0,6,1,typical
-534,https://g17.dhi-roma.it/resources/institution_693,pergamen,0.0,0.0,0,13,1,typical
-537,https://g17.dhi-roma.it/resources/institution_698,Oristano,0.0,0.0,0,21,1,typical
-15,https://g17.dhi-roma.it/resources/institution_1062,aquensis diocesis prov auxitana,0.0,0.0,0,20,1,typical
-578,https://g17.dhi-roma.it/resources/institution_999,Suessana,0.0,0.0,0,15,1,typical
+353,https://g17.dhi-roma.it/resources/institution_423,Nucerina,0.40947131572131573,0.5142723017723018,15,26,1,significant
+159,https://g17.dhi-roma.it/resources/institution_176,Cauriensis,0.3569186658249158,0.4108827861952862,7,16,1,significant
+330,https://g17.dhi-roma.it/resources/institution_400,Muranensis,0.33636363636363636,0.6727272727272727,11,11,1,significant
+208,https://g17.dhi-roma.it/resources/institution_236,Dolensis,0.335945825008325,0.42189165001665,11,24,1,significant
+187,https://g17.dhi-roma.it/resources/institution_209,Conseranensis,0.3316326530612245,0.37755102040816324,3,7,1,significant
+227,https://g17.dhi-roma.it/resources/institution_264,Foroliviensis,0.32134502923976604,0.37953216374269005,8,19,1,significant
+121,https://g17.dhi-roma.it/resources/institution_132,Brugnatensis,0.3123095238095238,0.6246190476190476,4,5,1,significant
+314,https://g17.dhi-roma.it/resources/institution_379,Miletensis,0.30051190476190476,0.4076904761904762,5,10,1,significant
+522,https://g17.dhi-roma.it/resources/institution_638,Vivariensis,0.2917898441427853,0.3674481074481074,7,17,1,significant
+235,https://g17.dhi-roma.it/resources/institution_273,Gallipolitana,0.291005291005291,0.291005291005291,2,6,1,significant
+176,https://g17.dhi-roma.it/resources/institution_197,Clusinensis,0.2791666666666667,0.30833333333333335,4,12,1,significant
+541,https://g17.dhi-roma.it/resources/institution_68,Arelatensis,0.2777777777777778,0.3333333333333333,3,9,1,significant
+325,https://g17.dhi-roma.it/resources/institution_392,Montis Alti/Montisalti,0.27638227513227515,0.45276455026455026,6,10,1,significant
+499,https://g17.dhi-roma.it/resources/institution_606,Valentina in Delphinatu,0.2727272727272727,0.2727272727272727,3,11,1,significant
+508,https://g17.dhi-roma.it/resources/institution_620,Venetensis,0.27228512806637806,0.34081995550745553,12,32,1,significant
+199,https://g17.dhi-roma.it/resources/institution_222,Cremensis,0.26601851851851854,0.332037037037037,2,5,1,significant
+186,https://g17.dhi-roma.it/resources/institution_208,Consanensis,0.2547323888232979,0.5094647776465958,7,11,1,significant
+207,https://g17.dhi-roma.it/resources/institution_235,Diensis,0.2474426807760141,0.28324514991181654,3,9,1,significant
+296,https://g17.dhi-roma.it/resources/institution_356,Marianensis,0.24642857142857144,0.24642857142857144,2,8,1,significant
+293,https://g17.dhi-roma.it/resources/institution_352,Macleviensis,0.24153439153439152,0.3402116402116402,5,14,1,high
+290,https://g17.dhi-roma.it/resources/institution_35,Albinganensis,0.239442791005291,0.2770998677248677,10,28,1,high
+139,https://g17.dhi-roma.it/resources/institution_151,Campaniensis,0.23832745443856554,0.4766549088771311,5,9,1,high
+391,https://g17.dhi-roma.it/resources/institution_469,Portugallensis,0.2310090702947846,0.3191609977324263,5,14,1,high
+316,https://g17.dhi-roma.it/resources/institution_381,Mimatensis,0.22780747219522732,0.29409890940503186,16,49,1,high
+379,https://g17.dhi-roma.it/resources/institution_456,Pientina,0.22634920634920636,0.4526984126984127,7,14,1,high
+277,https://g17.dhi-roma.it/resources/institution_333,Liciensis,0.21876923076923077,0.33753846153846156,4,10,1,high
+539,https://g17.dhi-roma.it/resources/institution_677,Alatrina,0.21334325396825396,0.4266865079365079,5,8,1,high
+194,https://g17.dhi-roma.it/resources/institution_216,Corisopitensis,0.2059455391351943,0.24785166940339354,8,29,1,high
+570,https://g17.dhi-roma.it/resources/institution_719,Imolensis,0.20249999999999999,0.40499999999999997,5,10,1,high
+225,https://g17.dhi-roma.it/resources/institution_262,Florentina,0.19757973507973506,0.3951594701594701,12,26,1,high
+167,https://g17.dhi-roma.it/resources/institution_187,Civitatensis Provinciae Compostellani,0.1974867724867725,0.2552910052910053,4,12,1,high
+169,https://g17.dhi-roma.it/resources/institution_189,Civitatis Castelli,0.1932231299166783,0.3864462598333566,16,31,1,high
+111,https://g17.dhi-roma.it/resources/institution_120,Bononiensis,0.19179135258680713,0.38358270517361426,10,22,1,high
+21,https://g17.dhi-roma.it/resources/institution_1069,eduensis,0.18648459383753502,0.3141456582633053,7,17,1,high
+453,https://g17.dhi-roma.it/resources/institution_548,Sulmonensis,0.1841798941798942,0.2691005291005291,3,9,1,high
+434,https://g17.dhi-roma.it/resources/institution_521,Sarlatensis,0.1841263528138528,0.29762770562770563,14,40,1,high
+516,https://g17.dhi-roma.it/resources/institution_63,Aquilana,0.183755772005772,0.367511544011544,23,50,1,high
+420,https://g17.dhi-roma.it/resources/institution_501,Sagiensis,0.18160185185185185,0.2428287037037037,11,40,1,high
+375,https://g17.dhi-roma.it/resources/institution_450,Pennensis,0.18017163504968384,0.3603432700993677,17,41,1,high
+417,https://g17.dhi-roma.it/resources/institution_499,Ruthenensis,0.17923762805946714,0.23947568183200368,24,87,1,high
+546,https://g17.dhi-roma.it/resources/institution_687,Tudertin,0.1791971916971917,0.3583943833943834,5,13,1,high
+285,https://g17.dhi-roma.it/resources/institution_344,Lucana,0.17699646032979366,0.30612967279633946,14,39,1,high
+431,https://g17.dhi-roma.it/resources/institution_517,Sancti Papuli,0.17592592592592593,0.2175925925925926,3,12,1,high
+268,https://g17.dhi-roma.it/resources/institution_323,Lectoriensis,0.1755952380952381,0.30952380952380953,8,24,1,high
+455,https://g17.dhi-roma.it/resources/institution_55,Aniciensis,0.17540390057831917,0.2345287313891965,12,43,1,high
+112,https://g17.dhi-roma.it/resources/institution_123,Bovensis,0.175,0.35,5,10,1,high
+405,https://g17.dhi-roma.it/resources/institution_486,Regiensis,0.17377946127946128,0.2598063973063973,7,22,1,high
+411,https://g17.dhi-roma.it/resources/institution_493,Rossanensis,0.17059920634920633,0.34119841269841267,4,10,1,high
+451,https://g17.dhi-roma.it/resources/institution_542,Squillacensis,0.16982804232804233,0.2508465608465609,3,10,1,high
+566,https://g17.dhi-roma.it/resources/institution_713,Elborensis,0.16927350427350427,0.33854700854700853,5,13,1,high
+490,https://g17.dhi-roma.it/resources/institution_592,Ugentina,0.16765873015873017,0.33531746031746035,3,7,1,typical
+141,https://g17.dhi-roma.it/resources/institution_153,Camplensis,0.16666666666666666,0.3333333333333333,3,8,1,typical
+303,https://g17.dhi-roma.it/resources/institution_364,Matisconensis,0.1664755411255411,0.23472886002886004,14,50,1,typical
+580,https://g17.dhi-roma.it/resources/institution_81,Aturensis,0.165995115995116,0.21746031746031744,6,26,1,typical
+534,https://g17.dhi-roma.it/resources/institution_669,Uticensis,0.16339285714285715,0.1909313725490196,8,34,1,typical
+320,https://g17.dhi-roma.it/resources/institution_386,Mirapicensis,0.16176739926739928,0.20045787545787547,2,8,1,typical
+497,https://g17.dhi-roma.it/resources/institution_604,Vabrensis,0.1605918087399569,0.1730354693317656,5,27,1,typical
+264,https://g17.dhi-roma.it/resources/institution_318,Laudensis,0.16058752204585539,0.32117504409171077,5,12,1,typical
+132,https://g17.dhi-roma.it/resources/institution_142,Caietana,0.16034685479129923,0.32069370958259846,4,9,1,typical
+567,https://g17.dhi-roma.it/resources/institution_714,Fanensis,0.15447971781305114,0.20657848324514994,2,9,1,typical
+289,https://g17.dhi-roma.it/resources/institution_349,Lugdunensis,0.1541546613677761,0.23544957774465972,34,122,1,typical
+502,https://g17.dhi-roma.it/resources/institution_610,Vapincensis,0.15238095238095237,0.23809523809523808,4,15,1,typical
+560,https://g17.dhi-roma.it/resources/institution_705,Montis Pelusii,0.15179497354497357,0.17973809523809522,6,30,1,typical
+224,https://g17.dhi-roma.it/resources/institution_261,Firmana,0.14913572060123784,0.2982714412024757,10,29,1,typical
+210,https://g17.dhi-roma.it/resources/institution_241,Eburovicensis,0.14826641767818238,0.21980080921257392,14,51,1,typical
+543,https://g17.dhi-roma.it/resources/institution_681,San Severino,0.14810956790123456,0.2962191358024691,5,12,1,typical
+144,https://g17.dhi-roma.it/resources/institution_157,Carcassonensis,0.14460152116402117,0.205869708994709,13,48,1,typical
+525,https://g17.dhi-roma.it/resources/institution_643,Vulturariensis,0.14386904761904762,0.28773809523809524,2,5,1,typical
+331,https://g17.dhi-roma.it/resources/institution_401,Mutinensis,0.14172017797017797,0.23344035594035595,6,20,1,typical
+548,https://g17.dhi-roma.it/resources/institution_69,Aretina,0.14078441206489986,0.2571785802273607,14,41,1,typical
+458,https://g17.dhi-roma.it/resources/institution_552,Tarbiensis,0.13941440645522277,0.19719615984922106,11,49,1,typical
+377,https://g17.dhi-roma.it/resources/institution_453,Petrocoricensis,0.13890012537553523,0.16750881177110685,12,61,1,typical
+246,https://g17.dhi-roma.it/resources/institution_292,Hieracensis,0.13854497354497355,0.2770899470899471,5,12,1,typical
+472,https://g17.dhi-roma.it/resources/institution_570,Tolosana,0.13846200096200098,0.16179310107881537,14,77,1,typical
+166,https://g17.dhi-roma.it/resources/institution_184,Casenatensis,0.13750687143544285,0.2750137428708857,6,14,1,typical
+410,https://g17.dhi-roma.it/resources/institution_491,Rivensis,0.13738425925925926,0.23310185185185184,6,24,1,typical
+269,https://g17.dhi-roma.it/resources/institution_324,Legionensis,0.13624014874014873,0.21274003774003772,9,33,1,typical
+142,https://g17.dhi-roma.it/resources/institution_155,Capuana,0.13618480725623586,0.2723696145124717,5,14,1,typical
+463,https://g17.dhi-roma.it/resources/institution_559,Terracinensis,0.13547378547378547,0.27094757094757094,4,11,1,typical
+589,https://g17.dhi-roma.it/resources/institution_94,Baiocensis,0.13444949494949496,0.1991346801346801,13,55,1,typical
+116,https://g17.dhi-roma.it/resources/institution_127,Briocensis,0.1343915343915344,0.19735449735449737,3,14,1,typical
+334,https://g17.dhi-roma.it/resources/institution_404,Narbonensis,0.13377149470899471,0.2206679894179894,19,64,1,typical
+466,https://g17.dhi-roma.it/resources/institution_562,Theatina,0.13310185185185183,0.26620370370370366,2,6,1,typical
+486,https://g17.dhi-roma.it/resources/institution_589,Turonensis,0.1330225555225555,0.19397303897303897,26,111,1,typical
+40,https://g17.dhi-roma.it/resources/institution_1089,castrensis provincia bituricensis,0.13294372294372295,0.13294372294372295,3,22,1,typical
+32,https://g17.dhi-roma.it/resources/institution_108,Bergomensis,0.13175084175084176,0.2635016835016835,7,20,1,typical
+307,https://g17.dhi-roma.it/resources/institution_369,Mediolanensis,0.13163237225737226,0.24232318607318606,14,44,1,typical
+452,https://g17.dhi-roma.it/resources/institution_547,Suessionensis,0.13129302139940438,0.2093945534371066,24,94,1,typical
+173,https://g17.dhi-roma.it/resources/institution_192,Claromontensis,0.13106100975743834,0.18604038686181543,32,140,1,typical
+43,https://g17.dhi-roma.it/resources/institution_1092,collensis et aliarum,0.13015873015873014,0.2603174603174603,8,21,1,typical
+471,https://g17.dhi-roma.it/resources/institution_57,Appamiensis / Appamiarum,0.13012254901960785,0.17927287581699347,4,20,1,typical
+177,https://g17.dhi-roma.it/resources/institution_199,Collensis,0.12923280423280423,0.25846560846560845,4,10,1,typical
+153,https://g17.dhi-roma.it/resources/institution_168,Castrensis,0.12851851851851853,0.16211640211640213,2,9,1,typical
+190,https://g17.dhi-roma.it/resources/institution_212,Conversanensis,0.12817460317460316,0.2563492063492063,2,5,1,typical
+362,https://g17.dhi-roma.it/resources/institution_434,Ostunensis,0.12788840788840788,0.25577681577681577,2,5,1,typical
+406,https://g17.dhi-roma.it/resources/institution_487,Remensis,0.12765002344116266,0.20466713548992027,19,79,1,typical
+563,https://g17.dhi-roma.it/resources/institution_709,Noviomensis,0.1272262154337626,0.19865728261954677,14,53,1,typical
+559,https://g17.dhi-roma.it/resources/institution_704,Pharaonensis,0.12678571428571428,0.25357142857142856,2,5,1,typical
+485,https://g17.dhi-roma.it/resources/institution_587,Tullensis,0.12636869011869012,0.23922386672386672,24,74,1,typical
+57,https://g17.dhi-roma.it/resources/institution_1106,nullius seu sancti flori,0.12625,0.1615909090909091,2,11,1,typical
+197,https://g17.dhi-roma.it/resources/institution_22,Adiacensis,0.12555555555555556,0.2511111111111111,2,5,1,typical
+368,https://g17.dhi-roma.it/resources/institution_440,Palentina,0.125406162464986,0.250812324929972,6,17,1,typical
+469,https://g17.dhi-roma.it/resources/institution_566,Tirasonensis,0.125,0.16666666666666666,2,12,1,typical
+123,https://g17.dhi-roma.it/resources/institution_134,Burgensis,0.12441678691678693,0.22989417989417987,10,33,1,typical
+61,https://g17.dhi-roma.it/resources/institution_111,Bisuntina,0.12358193277310925,0.17065826330532213,14,68,1,typical
+117,https://g17.dhi-roma.it/resources/institution_128,Britononiensis,0.12296296296296297,0.24592592592592594,2,5,1,typical
+232,https://g17.dhi-roma.it/resources/institution_269,Fulginatensis,0.12244283494283494,0.24488566988566987,4,13,1,typical
+384,https://g17.dhi-roma.it/resources/institution_460,Placentina provinciae Bononiensis,0.12238003704421614,0.21594581206521504,20,67,1,typical
+214,https://g17.dhi-roma.it/resources/institution_246,Elnensis,0.12208758503401361,0.1727465986394558,6,28,1,typical
+156,https://g17.dhi-roma.it/resources/institution_172,Catalaunensis,0.12140301827801828,0.2013558201058201,24,88,1,typical
+428,https://g17.dhi-roma.it/resources/institution_513,Sancti Flori,0.12051882460973369,0.20467401285583103,14,55,1,typical
+250,https://g17.dhi-roma.it/resources/institution_297,Hydruntina,0.11946969696969698,0.23893939393939395,6,22,1,typical
+128,https://g17.dhi-roma.it/resources/institution_139,Cadurcensis,0.11911495911495912,0.16602212602212602,22,110,1,typical
+305,https://g17.dhi-roma.it/resources/institution_366,Mazariensis,0.11909722222222222,0.23819444444444443,3,8,1,typical
+582,https://g17.dhi-roma.it/resources/institution_85,Aurelianensis,0.11852968460111318,0.1721243042671614,15,77,1,typical
+114,https://g17.dhi-roma.it/resources/institution_125,Bracharensis,0.11728674667699057,0.23457349335398114,12,41,1,typical
+459,https://g17.dhi-roma.it/resources/institution_553,Tarentina,0.11635401635401635,0.2327080327080327,4,11,1,typical
+200,https://g17.dhi-roma.it/resources/institution_223,Cremonensis,0.11383477633477633,0.22766955266955266,7,23,1,typical
+493,https://g17.dhi-roma.it/resources/institution_597,Urbevetana,0.11320346320346321,0.22640692640692642,4,11,1,typical
+279,https://g17.dhi-roma.it/resources/institution_336,Lingonensis,0.11313164715942495,0.1656572337127893,20,99,1,typical
+345,https://g17.dhi-roma.it/resources/institution_414,Neritonensis,0.11270833333333334,0.22541666666666668,4,16,1,typical
+151,https://g17.dhi-roma.it/resources/institution_166,Cassanensis,0.1126984126984127,0.2253968253968254,2,7,1,typical
+575,https://g17.dhi-roma.it/resources/institution_74,Asculana,0.11236557155161807,0.22473114310323614,13,43,1,typical
+554,https://g17.dhi-roma.it/resources/institution_699,Aquensis in Provincie,0.11228956228956229,0.16575559516735988,4,17,1,typical
+376,https://g17.dhi-roma.it/resources/institution_451,Perusina,0.11213606654783125,0.2242721330956625,6,17,1,typical
+203,https://g17.dhi-roma.it/resources/institution_231,Cusentina,0.11165816326530613,0.22331632653061226,4,14,1,typical
+536,https://g17.dhi-roma.it/resources/institution_670,Vasatensis,0.1114804292929293,0.17296085858585858,8,40,1,typical
+150,https://g17.dhi-roma.it/resources/institution_164,Casertana,0.11137566137566138,0.22275132275132276,3,10,1,typical
+265,https://g17.dhi-roma.it/resources/institution_319,Laudunensis,0.11133416329494761,0.1638447971781305,11,51,1,typical
+404,https://g17.dhi-roma.it/resources/institution_484,Redonensis,0.11125201288244765,0.20076489533011269,13,46,1,typical
+521,https://g17.dhi-roma.it/resources/institution_637,Viterbiensis,0.11085207231040563,0.22170414462081126,4,12,1,typical
+137,https://g17.dhi-roma.it/resources/institution_149,Camerinensis,0.11004446695936057,0.22008893391872114,14,47,1,typical
+584,https://g17.dhi-roma.it/resources/institution_90,Auxitana,0.10929045249940772,0.14756929637526653,12,67,1,typical
+13,https://g17.dhi-roma.it/resources/institution_1060,cumana,0.1087962962962963,0.2175925925925926,2,6,1,typical
+557,https://g17.dhi-roma.it/resources/institution_702,Triventinus,0.10858730158730158,0.21717460317460316,5,15,1,typical
+378,https://g17.dhi-roma.it/resources/institution_455,Pictaviensis,0.10848401562409345,0.16006141646219468,52,257,1,typical
+359,https://g17.dhi-roma.it/resources/institution_431,Oscensis,0.10822723993178539,0.12413633084087629,4,22,1,typical
+288,https://g17.dhi-roma.it/resources/institution_348,Lucionensis,0.10757747543461829,0.18340891912320484,15,63,1,typical
+592,https://g17.dhi-roma.it/resources/institution_98,Barbastrensis,0.10727513227513226,0.21455026455026452,2,6,1,typical
+326,https://g17.dhi-roma.it/resources/institution_393,Montis Falisci/Montis Flaconensis,0.10691137566137567,0.21382275132275133,4,12,1,typical
+478,https://g17.dhi-roma.it/resources/institution_58,Teramensis seu Apruntina,0.10633520074696545,0.2126704014939309,5,17,1,typical
+524,https://g17.dhi-roma.it/resources/institution_641,Volaterrana,0.10534188034188034,0.21068376068376068,4,13,1,typical
+276,https://g17.dhi-roma.it/resources/institution_332,Lexoviensis,0.10532834101382488,0.1483294930875576,11,62,1,typical
+219,https://g17.dhi-roma.it/resources/institution_254,Faventina,0.10527672558922559,0.21055345117845117,10,40,1,typical
+382,https://g17.dhi-roma.it/resources/institution_459,Pistoriensis,0.10526615359948693,0.21053230719897387,5,15,1,typical
+422,https://g17.dhi-roma.it/resources/institution_503,Salamantina,0.10493575207860922,0.18130007558578987,8,35,1,typical
+413,https://g17.dhi-roma.it/resources/institution_495,Rothomagensis,0.10444450382721987,0.1718519706174027,37,162,1,typical
+65,https://g17.dhi-roma.it/resources/institution_1117,electensis,0.10433501683501684,0.20867003367003367,3,11,1,typical
+464,https://g17.dhi-roma.it/resources/institution_560,Terulensis,0.10390946502057613,0.13863168724279834,4,18,1,typical
+511,https://g17.dhi-roma.it/resources/institution_624,Verulana,0.10238095238095239,0.20476190476190478,2,9,1,typical
+335,https://g17.dhi-roma.it/resources/institution_405,Narniensis,0.10214285714285713,0.20428571428571426,5,20,1,typical
+0,https://g17.dhi-roma.it/resources/institution_100,Barensis,0.10155122655122656,0.20310245310245312,6,22,1,typical
+519,https://g17.dhi-roma.it/resources/institution_635,Virdunensis,0.10065628815628816,0.1536935286935287,3,13,1,typical
+586,https://g17.dhi-roma.it/resources/institution_91,Avellinensis,0.1,0.2,1,5,1,typical
+591,https://g17.dhi-roma.it/resources/institution_96,Balneoregien,0.1,0.2,1,5,1,typical
+220,https://g17.dhi-roma.it/resources/institution_256,Feretrana,0.09935098337876115,0.1987019667575223,5,18,1,typical
+460,https://g17.dhi-roma.it/resources/institution_555,Tarraconensis,0.0988851095993953,0.1977702191987906,6,21,1,typical
+263,https://g17.dhi-roma.it/resources/institution_317,Lascurensis,0.09729704451926674,0.1390385334829779,3,18,1,typical
+565,https://g17.dhi-roma.it/resources/institution_711,Constantiensis provincia rothomagen,0.0967897842897843,0.1935795685795686,10,39,1,typical
+73,https://g17.dhi-roma.it/resources/institution_113,Biterensis,0.09669075745346932,0.15948320982219288,11,59,1,typical
+237,https://g17.dhi-roma.it/resources/institution_276,Gebennensis,0.09648426622110833,0.16665274296853244,7,38,1,typical
+418,https://g17.dhi-roma.it/resources/institution_50,Andegavensis,0.09564074074074075,0.15872470492470492,69,325,1,typical
+349,https://g17.dhi-roma.it/resources/institution_419,Nolana,0.09546012849584277,0.19092025699168555,4,14,1,typical
+538,https://g17.dhi-roma.it/resources/institution_674,taurinensis,0.09476719576719576,0.18953439153439153,5,20,1,typical
+523,https://g17.dhi-roma.it/resources/institution_64,Aquilegiensis,0.09388227513227512,0.18776455026455025,4,14,1,typical
+365,https://g17.dhi-roma.it/resources/institution_437,Pacensis,0.09353741496598637,0.18707482993197275,2,7,1,typical
+590,https://g17.dhi-roma.it/resources/institution_95,Baionensis,0.09278198653198654,0.18556397306397307,3,12,1,typical
+14,https://g17.dhi-roma.it/resources/institution_1061,Viennensis in Delphinatu,0.09262422360248448,0.14177018633540373,8,46,1,typical
+415,https://g17.dhi-roma.it/resources/institution_497,Rupellensis,0.09260556074281565,0.15579935677974893,18,102,1,typical
+217,https://g17.dhi-roma.it/resources/institution_250,Engolismensis,0.09219712386379053,0.14312440645773977,7,39,1,typical
+442,https://g17.dhi-roma.it/resources/institution_530,Senensis,0.09195188492063491,0.15265376984126983,7,32,1,typical
+253,https://g17.dhi-roma.it/resources/institution_305,Ispalensis,0.09185324298069396,0.18370648596138792,11,51,1,typical
+130,https://g17.dhi-roma.it/resources/institution_140,Caesaraugustana,0.09136604136604136,0.16000481000481,20,88,1,typical
+273,https://g17.dhi-roma.it/resources/institution_328,Leodiensis,0.09041483393893032,0.1698715496908268,18,83,1,typical
+578,https://g17.dhi-roma.it/resources/institution_78,Astoricensis,0.08989878948212282,0.17979757896424564,8,33,1,typical
+407,https://g17.dhi-roma.it/resources/institution_488,Rheginensis,0.0896604938271605,0.179320987654321,2,9,1,typical
+272,https://g17.dhi-roma.it/resources/institution_327,Lemovicensis,0.08957656116338751,0.12556030795551754,25,167,1,typical
+494,https://g17.dhi-roma.it/resources/institution_598,Urbinatensis,0.08892609126984127,0.17785218253968255,4,16,1,typical
+110,https://g17.dhi-roma.it/resources/institution_119,Boloniensis,0.08816738816738816,0.10966810966810965,2,15,1,typical
+520,https://g17.dhi-roma.it/resources/institution_636,Visensis,0.08809523809523809,0.17619047619047618,2,8,1,typical
+542,https://g17.dhi-roma.it/resources/institution_680,Antissiodorensis,0.0875268817204301,0.14738351254480286,6,31,1,typical
+127,https://g17.dhi-roma.it/resources/institution_138,Cabilonensis,0.08678010261343595,0.12992384159050827,7,45,1,typical
+462,https://g17.dhi-roma.it/resources/institution_557,Terdonensis,0.08555714285714286,0.13425714285714285,4,25,1,typical
+500,https://g17.dhi-roma.it/resources/institution_608,Vallisolitana,0.0853937728937729,0.1707875457875458,3,13,1,typical
+306,https://g17.dhi-roma.it/resources/institution_367,Mechliniensis-Bruxellensis,0.08454335016835016,0.1690867003367003,2,8,1,typical
+282,https://g17.dhi-roma.it/resources/institution_34,Albiensis,0.08383997204751921,0.12994409503843465,9,53,1,typical
+457,https://g17.dhi-roma.it/resources/institution_551,Taranthasiensis,0.0834077380952381,0.1668154761904762,2,8,1,typical
+163,https://g17.dhi-roma.it/resources/institution_180,Cenetensis,0.08333333333333333,0.16666666666666666,1,6,1,typical
+182,https://g17.dhi-roma.it/resources/institution_204,Conchensis,0.08304761904761905,0.14387301587301587,8,45,1,typical
+588,https://g17.dhi-roma.it/resources/institution_93,Avinionensis,0.08287037037037037,0.11574074074074074,3,20,1,typical
+83,https://g17.dhi-roma.it/resources/institution_115,Bituricensis,0.082631295011432,0.1396657211383239,29,146,1,typical
+470,https://g17.dhi-roma.it/resources/institution_569,Toletana,0.08257275132275131,0.12347883597883597,4,24,1,typical
+333,https://g17.dhi-roma.it/resources/institution_403,Nannetensis,0.08216352513227512,0.12682705026455027,13,80,1,typical
+181,https://g17.dhi-roma.it/resources/institution_203,Compostellana,0.08197395197395198,0.14514448514448514,10,52,1,typical
+295,https://g17.dhi-roma.it/resources/institution_355,Mantuana,0.0816247795414462,0.1632495590828924,3,12,1,typical
+58,https://g17.dhi-roma.it/resources/institution_1107,tricastrinensis,0.08159722222222221,0.16319444444444442,2,8,1,typical
+401,https://g17.dhi-roma.it/resources/institution_481,Ravennatensis,0.08152777777777778,0.16305555555555556,2,10,1,typical
+6,https://g17.dhi-roma.it/resources/institution_104,Bellovacensis,0.08130493927368927,0.13760987854737855,14,80,1,typical
+587,https://g17.dhi-roma.it/resources/institution_92,Aversana,0.08031580687830688,0.12938161375661375,6,32,1,typical
+254,https://g17.dhi-roma.it/resources/institution_306,Jacensis,0.08028218694885363,0.16056437389770725,2,9,1,typical
+423,https://g17.dhi-roma.it/resources/institution_504,Salernitana,0.08007936507936508,0.12444444444444445,4,28,1,typical
+291,https://g17.dhi-roma.it/resources/institution_350,Lunensarzanen,0.08001544952631909,0.1402586423238597,9,46,1,typical
+180,https://g17.dhi-roma.it/resources/institution_202,Comensis,0.07986111111111112,0.15972222222222224,6,30,1,typical
+369,https://g17.dhi-roma.it/resources/institution_441,Pampilonensis,0.07824290918553214,0.14009237574811345,12,61,1,typical
+118,https://g17.dhi-roma.it/resources/institution_129,Brixiensis,0.07777777777777777,0.15555555555555553,4,17,1,typical
+515,https://g17.dhi-roma.it/resources/institution_629,Vicensis,0.0775705467372134,0.13291887125220458,8,45,1,typical
+403,https://g17.dhi-roma.it/resources/institution_483,Recanatensis,0.07692307692307693,0.15384615384615385,2,13,1,typical
+221,https://g17.dhi-roma.it/resources/institution_258,Ferrariensis,0.07677218614718614,0.1535443722943723,2,8,1,typical
+255,https://g17.dhi-roma.it/resources/institution_307,Jadrensis,0.07638888888888888,0.15277777777777776,2,8,1,typical
+389,https://g17.dhi-roma.it/resources/institution_465,Polignanensis,0.07613168724279834,0.15226337448559668,2,9,1,typical
+512,https://g17.dhi-roma.it/resources/institution_625,Veronensis,0.07606107660455487,0.15212215320910974,10,46,1,typical
+267,https://g17.dhi-roma.it/resources/institution_320,Lauretana,0.07525072150072151,0.15050144300144302,3,14,1,typical
+124,https://g17.dhi-roma.it/resources/institution_135,Burgi S. Donnini,0.07500000000000001,0.15000000000000002,3,13,1,typical
+223,https://g17.dhi-roma.it/resources/institution_26,Agennensis,0.07437275985663082,0.11648745519713262,4,31,1,typical
+374,https://g17.dhi-roma.it/resources/institution_45,Ambianensis,0.07356999856999857,0.09308594308594308,12,111,1,typical
+528,https://g17.dhi-roma.it/resources/institution_647,Xanctonensis,0.0727524218115616,0.12513447325275281,17,93,1,typical
+593,https://g17.dhi-roma.it/resources/institution_99,Barchinonensis,0.07260301426968094,0.14520602853936188,14,66,1,typical
+446,https://g17.dhi-roma.it/resources/institution_534,Silvanectensis,0.07218741297688666,0.11805903648008913,5,38,1,typical
+212,https://g17.dhi-roma.it/resources/institution_243,Augustodunensis,0.07218236789665361,0.12062323919466778,11,77,1,typical
+216,https://g17.dhi-roma.it/resources/institution_25,Agathensis,0.07171201814058957,0.09580498866213152,5,42,1,typical
+342,https://g17.dhi-roma.it/resources/institution_411,Nemausensis,0.07165656565656565,0.10953535353535354,8,55,1,typical
+533,https://g17.dhi-roma.it/resources/institution_668,Vercellensis,0.07165322051685688,0.14330644103371376,4,22,1,typical
+215,https://g17.dhi-roma.it/resources/institution_248,Elvensis,0.07142857142857142,0.14285714285714285,1,7,1,typical
+558,https://g17.dhi-roma.it/resources/institution_703,Sancti Angeli de Lombardis,0.07142857142857142,0.14285714285714285,1,7,1,typical
+439,https://g17.dhi-roma.it/resources/institution_528,Segobiensis,0.07110272293199123,0.14220544586398245,8,41,1,typical
+122,https://g17.dhi-roma.it/resources/institution_133,Burdegalensis,0.07071680524061476,0.10175107079868985,14,126,1,typical
+164,https://g17.dhi-roma.it/resources/institution_181,Cenomanensis,0.06924923195084486,0.10709592080559824,26,186,1,typical
+385,https://g17.dhi-roma.it/resources/institution_461,Placentina provinciae Compostellanae,0.06923185941043083,0.13846371882086167,6,28,1,typical
+247,https://g17.dhi-roma.it/resources/institution_294,Hipporegiensis,0.06851851851851852,0.13703703703703704,2,9,1,typical
+440,https://g17.dhi-roma.it/resources/institution_529,Seguntin,0.06825060532687652,0.10373284907183213,9,59,1,typical
+491,https://g17.dhi-roma.it/resources/institution_593,Ulixboniensis,0.06808035714285714,0.13616071428571427,4,24,1,typical
+372,https://g17.dhi-roma.it/resources/institution_445,Parisiensis,0.06773252829590858,0.11433829602843687,22,142,1,typical
+244,https://g17.dhi-roma.it/resources/institution_287,Grossetana,0.0671957671957672,0.1343915343915344,1,5,1,typical
+189,https://g17.dhi-roma.it/resources/institution_211,Convenarum,0.06709897292250233,0.08713912231559291,9,85,1,typical
+456,https://g17.dhi-roma.it/resources/institution_550,Sutrina,0.06666666666666667,0.13333333333333333,1,5,1,typical
+461,https://g17.dhi-roma.it/resources/institution_556,Tarvisina,0.06653703703703703,0.13307407407407407,3,15,1,typical
+3,https://g17.dhi-roma.it/resources/institution_1018,Casalensis,0.06646825396825397,0.06646825396825397,1,14,1,typical
+498,https://g17.dhi-roma.it/resources/institution_605,Valentina,0.0662962962962963,0.11037037037037037,6,45,1,typical
+202,https://g17.dhi-roma.it/resources/institution_23,Adriensis,0.06581632653061224,0.13163265306122449,1,7,1,typical
+568,https://g17.dhi-roma.it/resources/institution_715,Fesulana,0.06524276377217554,0.13048552754435108,3,17,1,typical
+147,https://g17.dhi-roma.it/resources/institution_160,Carnotensis,0.06514226564226565,0.1302845312845313,32,185,1,typical
+371,https://g17.dhi-roma.it/resources/institution_443,Papiensis,0.06421957671957672,0.12843915343915344,4,21,1,typical
+585,https://g17.dhi-roma.it/resources/institution_904,Syracuse,0.0636904761904762,0.1273809523809524,1,7,1,typical
+544,https://g17.dhi-roma.it/resources/institution_682,Bisceglie,0.06290909090909091,0.12581818181818183,2,15,1,typical
+158,https://g17.dhi-roma.it/resources/institution_174,Cathacensis,0.0625,0.125,1,8,1,typical
+239,https://g17.dhi-roma.it/resources/institution_279,Giennensis,0.062299498746867174,0.12459899749373435,3,19,1,typical
+475,https://g17.dhi-roma.it/resources/institution_576,Trecorensis,0.06208017023234414,0.12416034046468828,13,69,1,typical
+444,https://g17.dhi-roma.it/resources/institution_532,Senonensis,0.061830993080993074,0.10109788359788359,18,130,1,typical
+238,https://g17.dhi-roma.it/resources/institution_277,Gerundensis,0.061725245653817075,0.10757747543461828,10,63,1,typical
+579,https://g17.dhi-roma.it/resources/institution_79,Atrebatensis,0.06170634920634921,0.12341269841269842,2,10,1,typical
+454,https://g17.dhi-roma.it/resources/institution_549,Surrentina,0.06082818930041153,0.12165637860082305,3,18,1,typical
+510,https://g17.dhi-roma.it/resources/institution_623,Venusina,0.06071428571428571,0.12142857142857141,1,5,1,typical
+373,https://g17.dhi-roma.it/resources/institution_446,Parmensis,0.05986729412102546,0.11973458824205092,11,67,1,typical
+343,https://g17.dhi-roma.it/resources/institution_412,Neocastrensis,0.05844155844155845,0.1168831168831169,2,11,1,typical
+465,https://g17.dhi-roma.it/resources/institution_561,Theanensis,0.057396384479717816,0.11479276895943563,3,18,1,typical
+495,https://g17.dhi-roma.it/resources/institution_599,Urbis seu Romana,0.055057485423339075,0.11011497084667815,6,41,1,typical
+394,https://g17.dhi-roma.it/resources/institution_471,Potentina,0.05476190476190476,0.10952380952380952,1,6,1,typical
+286,https://g17.dhi-roma.it/resources/institution_345,Lucensis,0.054563492063492064,0.10912698412698413,2,16,1,typical
+74,https://g17.dhi-roma.it/resources/institution_114,Bituntina,0.05399029982363315,0.1079805996472663,5,30,1,typical
+348,https://g17.dhi-roma.it/resources/institution_418,Nivernensis,0.05261758743901601,0.08737803202088916,6,56,1,typical
+178,https://g17.dhi-roma.it/resources/institution_200,Coloniensis,0.05235042735042735,0.1047008547008547,1,6,1,typical
+45,https://g17.dhi-roma.it/resources/institution_1094,malleacensis,0.052083333333333336,0.10416666666666667,1,6,1,typical
+251,https://g17.dhi-roma.it/resources/institution_298,Illerdensis,0.05160322359396433,0.08468792866941015,6,54,1,typical
+86,https://g17.dhi-roma.it/resources/institution_1154,sancti pontii thomeriarum,0.05158730158730159,0.10317460317460318,1,6,1,typical
+5,https://g17.dhi-roma.it/resources/institution_103,Bellicensis,0.05158730158730159,0.10317460317460318,1,6,1,typical
+540,https://g17.dhi-roma.it/resources/institution_679,Alexandrina diocesis provinciae Mediolanensis,0.05154320987654321,0.10308641975308643,1,6,1,typical
+242,https://g17.dhi-roma.it/resources/institution_285,Gratianopolitana,0.05128205128205128,0.05128205128205128,2,39,1,typical
+402,https://g17.dhi-roma.it/resources/institution_482,Reatina,0.05066538399871733,0.10133076799743466,5,33,1,typical
+184,https://g17.dhi-roma.it/resources/institution_206,Condomiensis,0.04964021164021164,0.09928042328042327,7,50,1,typical
+450,https://g17.dhi-roma.it/resources/institution_541,Spoletana,0.04837822671156004,0.09675645342312009,4,30,1,typical
+505,https://g17.dhi-roma.it/resources/institution_615,Vaurensis,0.047798941798941806,0.09559788359788361,2,15,1,typical
+551,https://g17.dhi-roma.it/resources/institution_694,Patavina,0.047619047619047616,0.09523809523809523,2,21,1,typical
+138,https://g17.dhi-roma.it/resources/institution_15,Abulensis,0.04476384049554781,0.08952768099109562,5,41,1,typical
+171,https://g17.dhi-roma.it/resources/institution_190,Civitatis Ducalis,0.044666666666666674,0.08933333333333335,1,10,1,typical
+222,https://g17.dhi-roma.it/resources/institution_259,Feruntina,0.04444444444444444,0.04444444444444444,1,18,1,typical
+304,https://g17.dhi-roma.it/resources/institution_365,Maurianensis,0.04417989417989419,0.08835978835978837,1,7,1,typical
+363,https://g17.dhi-roma.it/resources/institution_435,Ovetensis,0.04385865457294028,0.08771730914588056,4,35,1,typical
+256,https://g17.dhi-roma.it/resources/institution_308,Januensis,0.043478260869565216,0.043478260869565216,1,23,1,typical
+577,https://g17.dhi-roma.it/resources/institution_77,Astensis,0.0429421768707483,0.0858843537414966,1,7,1,typical
+312,https://g17.dhi-roma.it/resources/institution_375,Messanensis,0.04256410256410256,0.08512820512820513,8,65,1,typical
+143,https://g17.dhi-roma.it/resources/institution_156,Caputaquensis,0.04194444444444445,0.0838888888888889,2,18,1,typical
+531,https://g17.dhi-roma.it/resources/institution_651,Zamorensis,0.04189213564213564,0.08378427128427128,3,22,1,typical
+90,https://g17.dhi-roma.it/resources/institution_116,Bobiensis,0.041666666666666664,0.08333333333333333,1,12,1,typical
+226,https://g17.dhi-roma.it/resources/institution_263,Foroiuliensis,0.04083333333333333,0.08166666666666667,1,12,1,typical
+294,https://g17.dhi-roma.it/resources/institution_354,Maioricensis,0.040079365079365076,0.08015873015873015,2,21,1,typical
+364,https://g17.dhi-roma.it/resources/institution_436,Oxonensis,0.03933862433862434,0.07867724867724868,4,35,1,typical
+218,https://g17.dhi-roma.it/resources/institution_251,Eugubina,0.038984248075157164,0.07796849615031433,1,11,1,typical
+283,https://g17.dhi-roma.it/resources/institution_340,Lomberiensis,0.03888888888888889,0.07777777777777778,1,9,1,typical
+51,https://g17.dhi-roma.it/resources/institution_110,Bisignanensis,0.03877314814814815,0.0775462962962963,1,8,1,typical
+550,https://g17.dhi-roma.it/resources/institution_693,pergamen,0.03867102396514161,0.07734204793028322,2,17,1,typical
+133,https://g17.dhi-roma.it/resources/institution_143,Calaguritana,0.03820861678004535,0.0764172335600907,3,28,1,typical
+308,https://g17.dhi-roma.it/resources/institution_37,Aleriensis,0.03794642857142857,0.07589285714285714,1,8,1,typical
+309,https://g17.dhi-roma.it/resources/institution_370,Meldensis,0.03694758567207547,0.07389517134415094,5,49,1,typical
+324,https://g17.dhi-roma.it/resources/institution_391,Montis Albani,0.03603395061728395,0.0720679012345679,2,18,1,typical
+206,https://g17.dhi-roma.it/resources/institution_234,Dertusensis,0.034461152882205505,0.06892230576441101,2,19,1,typical
+297,https://g17.dhi-roma.it/resources/institution_357,Marsicana,0.034358974358974365,0.06871794871794873,1,13,1,typical
+318,https://g17.dhi-roma.it/resources/institution_383,Mindoniensis,0.034156378600823045,0.06831275720164609,1,9,1,typical
+561,https://g17.dhi-roma.it/resources/institution_706,Calliensis,0.0338095238095238,0.0676190476190476,1,10,1,typical
+496,https://g17.dhi-roma.it/resources/institution_600,Urgellensis,0.03184281842818428,0.03929539295392954,2,41,1,typical
+517,https://g17.dhi-roma.it/resources/institution_630,Vicentina,0.031557239057239055,0.06311447811447811,2,20,1,typical
+339,https://g17.dhi-roma.it/resources/institution_409,Neapolitana,0.03155706727135298,0.06311413454270597,2,21,1,typical
+380,https://g17.dhi-roma.it/resources/institution_457,Pisana,0.03125,0.0625,1,16,1,typical
+571,https://g17.dhi-roma.it/resources/institution_72,Ariminensis,0.03092592592592593,0.06185185185185186,1,10,1,typical
+352,https://g17.dhi-roma.it/resources/institution_421,Novariensis,0.030227001194743128,0.060454002389486255,3,31,1,typical
+583,https://g17.dhi-roma.it/resources/institution_86,Auriensis,0.02811295351473923,0.05622590702947846,2,28,1,typical
+468,https://g17.dhi-roma.it/resources/institution_564,Tholonensis,0.027767857142857146,0.05553571428571429,1,14,1,typical
+260,https://g17.dhi-roma.it/resources/institution_313,Lamacensis,0.02631578947368421,0.05263157894736842,1,19,1,typical
+311,https://g17.dhi-roma.it/resources/institution_373,Melphitensis,0.023809523809523808,0.047619047619047616,3,48,1,typical
+149,https://g17.dhi-roma.it/resources/institution_162,Carthaginensis,0.023148148148148143,0.04629629629629629,1,15,1,typical
+162,https://g17.dhi-roma.it/resources/institution_179,Celsonensis,0.02147108843537415,0.0429421768707483,1,14,1,low
+594,https://g17.dhi-roma.it/resources/institution_999,Suessana,0.020833333333333332,0.041666666666666664,1,15,1,low
+274,https://g17.dhi-roma.it/resources/institution_329,Leonensis,0.02037037037037037,0.04074074074074074,1,15,1,low
+258,https://g17.dhi-roma.it/resources/institution_310,Juvenacensis,0.020185185185185184,0.04037037037037037,1,15,1,low
+193,https://g17.dhi-roma.it/resources/institution_215,Cordubensis,0.018338477366255143,0.036676954732510286,1,18,1,low
+129,https://g17.dhi-roma.it/resources/institution_14,Abrincensis,0.01785714285714286,0.03571428571428572,1,18,1,low
+302,https://g17.dhi-roma.it/resources/institution_363,Materanensis,0.016865079365079364,0.03373015873015873,1,18,1,low
+93,https://g17.dhi-roma.it/resources/institution_117,Boianensis,0.015625,0.03125,1,20,1,low
+553,https://g17.dhi-roma.it/resources/institution_698,Oristano,0.015079365079365078,0.030158730158730156,1,21,1,low
+15,https://g17.dhi-roma.it/resources/institution_1062,aquensis diocesis prov auxitana,0.013888888888888888,0.027777777777777776,1,22,1,low
+22,https://g17.dhi-roma.it/resources/institution_107,Beneventana,0.007260101010101009,0.014520202020202018,1,44,1,low
+483,https://g17.dhi-roma.it/resources/institution_585,Tuamensis in Hybernia,0.0,0.0,0,6,1,low
+148,https://g17.dhi-roma.it/resources/institution_161,Carpentoractensis,0.0,0.0,0,6,1,low
+467,https://g17.dhi-roma.it/resources/institution_563,Thelesina/Theolesiensis,0.0,0.0,0,5,1,low
+185,https://g17.dhi-roma.it/resources/institution_207,Conimbricensis,0.0,0.0,0,9,1,low
+340,https://g17.dhi-roma.it/resources/institution_41,Algarensis,0.0,0.0,0,7,1,low
+252,https://g17.dhi-roma.it/resources/institution_304,Iserniensis,0.0,0.0,0,10,1,low
+321,https://g17.dhi-roma.it/resources/institution_387,Moguntina,0.0,0.0,0,7,1,low
+323,https://g17.dhi-roma.it/resources/institution_389,Monopolitana,0.0,0.0,0,5,1,low
+476,https://g17.dhi-roma.it/resources/institution_577,Treverensis,0.0,0.0,0,5,1,low
+350,https://g17.dhi-roma.it/resources/institution_42,Alifana,0.0,0.0,0,17,1,low
+146,https://g17.dhi-roma.it/resources/institution_16,Acernensis,0.0,0.0,0,7,1,low
+482,https://g17.dhi-roma.it/resources/institution_584,Tropiensis,0.0,0.0,0,8,1,low
+477,https://g17.dhi-roma.it/resources/institution_578,Tricaricensis,0.0,0.0,0,11,1,low
+135,https://g17.dhi-roma.it/resources/institution_146,Calvensis,0.0,0.0,0,6,1,low
+481,https://g17.dhi-roma.it/resources/institution_583,Troiana,0.0,0.0,0,6,1,low
+191,https://g17.dhi-roma.it/resources/institution_213,Corcagiensis,0.0,0.0,0,8,1,low
+429,https://g17.dhi-roma.it/resources/institution_515,Sancti Marci,0.0,0.0,0,5,1,low
+245,https://g17.dhi-roma.it/resources/institution_29,Agrigentina,0.0,0.0,0,7,1,low
+234,https://g17.dhi-roma.it/resources/institution_272,Gadicensis,0.0,0.0,0,6,1,low
+356,https://g17.dhi-roma.it/resources/institution_427,Oloronensis,0.0,0.0,0,7,1,low
+213,https://g17.dhi-roma.it/resources/institution_244,Egitaniensis,0.0,0.0,0,6,1,low
+449,https://g17.dhi-roma.it/resources/institution_540,Spirensis,0.0,0.0,0,10,1,low
+367,https://g17.dhi-roma.it/resources/institution_44,Amalphitana,0.0,0.0,0,9,1,low
+115,https://g17.dhi-roma.it/resources/institution_126,Brindusina,0.0,0.0,0,17,1,low
+357,https://g17.dhi-roma.it/resources/institution_429,Oriolensis,0.0,0.0,0,5,1,low
+419,https://g17.dhi-roma.it/resources/institution_500,Sabinensis,0.0,0.0,0,9,1,low
+574,https://g17.dhi-roma.it/resources/institution_723,Melevitana,0.0,0.0,0,10,1,low
+23,https://g17.dhi-roma.it/resources/institution_1070,faventina et spoletana,0.0,0.0,0,8,1,low
+501,https://g17.dhi-roma.it/resources/institution_609,Valvensis,0.0,0.0,0,15,1,low
+44,https://g17.dhi-roma.it/resources/institution_1093,condomiensis seu agennensis,0.0,0.0,0,8,1,low
+38,https://g17.dhi-roma.it/resources/institution_1086,andegavensis seu cenomanensis aut pictavensis,0.0,0.0,0,6,1,low
+35,https://g17.dhi-roma.it/resources/institution_1082,urbis - pergamensis et aliorum,0.0,0.0,0,13,1,low
+33,https://g17.dhi-roma.it/resources/institution_1080,spoletana - firmana et urbevetana,0.0,0.0,0,12,1,low
+18,https://g17.dhi-roma.it/resources/institution_1065,aurelianensis seu bituricensis,0.0,0.0,0,12,1,low
+20,https://g17.dhi-roma.it/resources/institution_1068,ebredunensis,0.0,0.0,0,8,1,low
+47,https://g17.dhi-roma.it/resources/institution_1096,nullius dioc prov. ispalensis,0.0,0.0,0,5,1,low
+60,https://g17.dhi-roma.it/resources/institution_1109,montis pessulani,0.0,0.0,0,5,1,low
+54,https://g17.dhi-roma.it/resources/institution_1102,Nullius seu Andegavensis,0.0,0.0,0,19,1,low
+11,https://g17.dhi-roma.it/resources/institution_1058,Constantiensis,0.0,0.0,0,6,1,low
+484,https://g17.dhi-roma.it/resources/institution_586,Tudensis,0.0,0.0,0,9,1,low
+284,https://g17.dhi-roma.it/resources/institution_341,Lotevensis,0.0,0.0,0,14,1,low
+313,https://g17.dhi-roma.it/resources/institution_376,Metensis,0.0,0.0,0,5,1,low
+399,https://g17.dhi-roma.it/resources/institution_48,Anagnina,0.0,0.0,0,11,1,low
+310,https://g17.dhi-roma.it/resources/institution_372,Melphiensis,0.0,0.0,0,26,1,low
+409,https://g17.dhi-roma.it/resources/institution_490,Ripana,0.0,0.0,0,7,1,low
+425,https://g17.dhi-roma.it/resources/institution_509,Sancta Agathae Gothorum,0.0,0.0,0,14,1,low
+270,https://g17.dhi-roma.it/resources/institution_325,Leighliniensis,0.0,0.0,0,5,1,low
+136,https://g17.dhi-roma.it/resources/institution_148,Cameracensis,0.0,0.0,0,14,1,low

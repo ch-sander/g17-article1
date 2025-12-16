@@ -16,5 +16,4 @@ jinja2==3.1.2
 branca==0.7.2
 geopandas==1.0.1
 fiona==1.9.6
-shap==0.48.0
-jellyfish==1.0.3
+catboost==1.2.8

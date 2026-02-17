@@ -17,3 +17,4 @@ branca==0.7.2
 geopandas==1.0.1
 fiona==1.9.6
 catboost==1.2.8
+mapclassify==2.8.1

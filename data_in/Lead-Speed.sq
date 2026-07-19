@@ -20,7 +20,8 @@ WHERE {
           grace:mid_date ?date_value_4 .
   ?date_5 rdf:type grace:date ;
           grace:mid_date ?date_value_7 .
-  ?event (grace:object_object|^grace:event_object)*/grace:in_diocese ?diocese_11 .
+  # ?event (grace:object_object|^grace:event_object)*/grace:in_diocese ?diocese_11 . # too wide
+  ?event (grace:event_related_to_object/(grace:object_related_to_object*)/grace:in_diocese) ?diocese_11 .
   ?diocese_11 rdf:type grace:diocese ;
               grace:called ?diocese_11_label ;
               grace:under_jurisdiction ?province ;
@@ -44,7 +45,12 @@ WHERE {
         # g17:type_142 # subtype of event
         g17:type_50 # exclude types of subregister
       }. })
-  ?entity grace:called ?type_label .
+      
+  ?entity grace:called ?type_label # ?type_label_x .
+  # ?thesaurus grace:called ?thesaurus_label .
+  # BIND(CONCAT(?thesaurus_label, ": ", ?type_label_x) AS ?type_label)
+
+
 }
 GROUP BY ?event ?event_label ?date_value_7 ?date_value_4 ?diocese_11 ?diocese_11_label
   ?province ?province_label ?map_15 ?place_13 ?place_13_label ?place_17 ?place_17_label

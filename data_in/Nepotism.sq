@@ -22,7 +22,8 @@ WHERE {
   ?role grace:called ?role_label .
   FILTER (?role != g17:type_1119) # exclude authorities
     # Institution:
-  ?event (grace:object_object|^grace:event_object)*/grace:in_diocese ?institution .
+  ?event (grace:event_related_to_object/(grace:object_related_to_object*)/grace:in_diocese) ?institution .
+  # ?event (grace:object_object|^grace:event_object)*/grace:in_diocese ?institution . # too wide
   ?institution rdf:type grace:diocese ;
                grace:called ?institution_label .
    # Type Labels:
@@ -34,7 +35,11 @@ WHERE {
         # g17:type_142 # subtype of event
         g17:type_50 # exclude types of subregister
       }. })
-  ?entity grace:called ?type_label .
+  
+  ?entity grace:called ?type_label # ?type_label_x .
+  # ?thesaurus grace:called ?thesaurus_label .
+  # BIND(CONCAT(?thesaurus_label, ": ", ?type_label_x) AS ?type_label)
+
   OPTIONAL {
     {
       SELECT ?event (SAMPLE(?d) AS ?date)

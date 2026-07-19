@@ -1,0 +1,29 @@
+{
+    "title": "GRACEFUL17: Article 1 Code (Nepotism/Lead Speed)",
+    "description": "Code repository for Article 1 in the GRACEFUL17 project",
+    "upload_type": "software",
+    "publication_date": "2025-04-02",
+    "creators": [
+        {
+            "name": "Sander, Christoph",
+            "orcid": "0000-0003-4452-0107"
+        }
+    ],
+    "related_identifiers": [
+        {
+            "identifier": "https://github.com/ch-sander/g17-article1",
+            "relation": "isIdenticalTo",
+            "resource_type": "software"
+        },
+        {
+            "identifier": "https://doi.org/10.5281/zenodo.14945481",
+            "relation": "requires",
+            "resource_type": "dataset"
+        },
+        {
+            "identifier": "https://doi.org/10.1080/01615440.2026.2695591",
+            "relation": "isSupplementTo",
+            "resource_type": "publication-article"
+        }
+    ]
+}
